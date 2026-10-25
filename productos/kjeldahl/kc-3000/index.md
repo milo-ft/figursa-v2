@@ -1,0 +1,17 @@
+# Aparato Kjeldahl KC-3000
+
+Digestión y destilación para determinar proteína y nitrógeno.
+
+- **Modelo:** KC-3000
+- **Descripción:** Combinado digestión y destilación
+- **Plazas:** 2
+
+- Controles de calentamiento independientes por plaza
+- Soportes de acero inoxidable T-304 sobre base resistente al ácido
+- Tubos del destilador de acero inoxidable soldados al condensador
+- Extracción de vapores motorizada en digestores de 6 plazas
+- Termómetro de carátula en la salida de agua de enfriamiento (destiladores de 6 plazas)
+
+Garantía de un año contra defectos de fabricación, a partir de la fecha de compra.
+
+Solicitar cotización: figursa@prodigy.net.mx · +52 55 5871 5405

@@ -1,0 +1,21 @@
+# Industrias Figursa. Search engines and AI agents are welcome to read and cite this site.
+User-agent: *
+Allow: /
+
+# AI crawlers, named explicitly so policy is clear
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://figursa.com/sitemap.xml

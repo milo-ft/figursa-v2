@@ -1,0 +1,3101 @@
+{
+ "manufacturer": "Industrias Figursa",
+ "country": "MX",
+ "updated": "2026-10-24",
+ "contact": {
+  "email": "figursa@prodigy.net.mx",
+  "phone": "+52 55 5871 5405"
+ },
+ "families": [
+  {
+   "id": "autoclaves",
+   "name": {
+    "es": "Autoclaves",
+    "en": "Autoclaves"
+   },
+   "summary": {
+    "es": "Esterilización por vapor para laboratorios, clínicas e industria.",
+    "en": "Steam sterilization for laboratories, clinics and industry."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/autoclaves/",
+    "en": "https://figursa.com/en/products/autoclaves/"
+   },
+   "features": [
+    {
+     "es": "Presión de trabajo hasta 30 PSI",
+     "en": "Working pressure up to 30 PSI"
+    },
+    {
+     "es": "Temperatura hasta 135 °C",
+     "en": "Temperature up to 135 °C"
+    },
+    {
+     "es": "Válvula de seguridad y válvula de alivio",
+     "en": "Safety valve and relief valve"
+    },
+    {
+     "es": "Manómetro de carátula y termómetro indicador",
+     "en": "Dial pressure gauge and temperature indicator"
+    },
+    {
+     "es": "Nivel de agua exterior",
+     "en": "External water-level gauge"
+    },
+    {
+     "es": "Tanque, gabinete y canastilla de acero inoxidable",
+     "en": "Stainless-steel tank, cabinet and basket"
+    },
+    {
+     "es": "Tapa de bronce fundido y cromado",
+     "en": "Cast, chrome-plated bronze lid"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Laboratorios de microbiología y docencia",
+     "en": "Microbiology and teaching laboratories"
+    },
+    {
+     "es": "Clínicas y hospitales",
+     "en": "Clinics and hospitals"
+    },
+    {
+     "es": "Control de calidad en alimentos y farmacia",
+     "en": "Food and pharmaceutical quality control"
+    },
+    {
+     "es": "Esterilización de residuos biológicos",
+     "en": "Sterilization of biological waste"
+    }
+   ],
+   "models": [
+    {
+     "code": "AV-2550",
+     "url": {
+      "es": "https://figursa.com/productos/autoclaves/av-2550/",
+      "en": "https://figursa.com/en/products/autoclaves/av-2550/"
+     },
+     "specs": {
+      "control": {
+       "es": "Manual, 3 niveles de calor",
+       "en": "Manual, 3 heat settings"
+      },
+      "inner": "25 × 50 cm",
+      "power": "1500 W"
+     }
+    },
+    {
+     "code": "AV-3060",
+     "url": {
+      "es": "https://figursa.com/productos/autoclaves/av-3060/",
+      "en": "https://figursa.com/en/products/autoclaves/av-3060/"
+     },
+     "specs": {
+      "control": {
+       "es": "Manual, 3 niveles de calor",
+       "en": "Manual, 3 heat settings"
+      },
+      "inner": "30 × 60 cm",
+      "power": "2000 W"
+     }
+    },
+    {
+     "code": "AV-3560",
+     "url": {
+      "es": "https://figursa.com/productos/autoclaves/av-3560/",
+      "en": "https://figursa.com/en/products/autoclaves/av-3560/"
+     },
+     "specs": {
+      "control": {
+       "es": "Manual, 3 niveles de calor",
+       "en": "Manual, 3 heat settings"
+      },
+      "inner": "35 × 60 cm",
+      "power": "2200 W"
+     }
+    },
+    {
+     "code": "AVA-2550",
+     "url": {
+      "es": "https://figursa.com/productos/autoclaves/ava-2550/",
+      "en": "https://figursa.com/en/products/autoclaves/ava-2550/"
+     },
+     "specs": {
+      "control": {
+       "es": "Automático",
+       "en": "Automatic"
+      },
+      "inner": "25 × 50 cm",
+      "power": "1500 W"
+     }
+    },
+    {
+     "code": "AVA-3060",
+     "url": {
+      "es": "https://figursa.com/productos/autoclaves/ava-3060/",
+      "en": "https://figursa.com/en/products/autoclaves/ava-3060/"
+     },
+     "specs": {
+      "control": {
+       "es": "Automático",
+       "en": "Automatic"
+      },
+      "inner": "30 × 60 cm",
+      "power": "2000 W"
+     }
+    },
+    {
+     "code": "AVAD-2550",
+     "url": {
+      "es": "https://figursa.com/productos/autoclaves/avad-2550/",
+      "en": "https://figursa.com/en/products/autoclaves/avad-2550/"
+     },
+     "specs": {
+      "control": {
+       "es": "Digital con temporizador",
+       "en": "Digital with timer"
+      },
+      "inner": "25 × 50 cm",
+      "power": "1500 W"
+     }
+    },
+    {
+     "code": "AVAD-3060",
+     "url": {
+      "es": "https://figursa.com/productos/autoclaves/avad-3060/",
+      "en": "https://figursa.com/en/products/autoclaves/avad-3060/"
+     },
+     "specs": {
+      "control": {
+       "es": "Digital con temporizador",
+       "en": "Digital with timer"
+      },
+      "inner": "30 × 60 cm",
+      "power": "2000 W"
+     }
+    },
+    {
+     "code": "AVAD-3560",
+     "url": {
+      "es": "https://figursa.com/productos/autoclaves/avad-3560/",
+      "en": "https://figursa.com/en/products/autoclaves/avad-3560/"
+     },
+     "specs": {
+      "control": {
+       "es": "Digital con temporizador",
+       "en": "Digital with timer"
+      },
+      "inner": "35 × 60 cm",
+      "power": "2200 W"
+     }
+    }
+   ]
+  },
+  {
+   "id": "campanas-de-flujo-laminar",
+   "name": {
+    "es": "Campanas de flujo laminar",
+    "en": "Laminar flow hoods"
+   },
+   "summary": {
+    "es": "Zona de trabajo estéril con flujo horizontal o vertical y filtración HEPA.",
+    "en": "A sterile work zone with horizontal or vertical flow and HEPA filtration."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/campanas-de-flujo-laminar/",
+    "en": "https://figursa.com/en/products/laminar-flow-hoods/"
+   },
+   "features": [
+    {
+     "es": "Filtro HEPA con eficiencia de 99.97 % para partículas de 0.3 µm",
+     "en": "HEPA filter, 99.97 % efficient at 0.3 µm"
+    },
+    {
+     "es": "Interior de acero inoxidable",
+     "en": "Stainless-steel interior"
+    },
+    {
+     "es": "Motoventilador de bajo nivel de ruido, 2 velocidades",
+     "en": "Low-noise blower, 2 speeds"
+    },
+    {
+     "es": "Iluminación interior y lámpara UV",
+     "en": "Interior lighting and UV lamp"
+    },
+    {
+     "es": "Interruptor de seguridad",
+     "en": "Safety switch"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Preparación de medios de cultivo y siembras no patógenas",
+     "en": "Culture media preparation and non-pathogenic inoculation"
+    },
+    {
+     "es": "Mezclas intravenosas, soluciones oftálmicas y fórmulas",
+     "en": "IV admixtures, ophthalmic solutions and formulas"
+    },
+    {
+     "es": "Llenado de productos estériles",
+     "en": "Filling of sterile products"
+    },
+    {
+     "es": "Laboratorio clínico, tejidos y controles de esterilidad",
+     "en": "Clinical laboratory, tissue work and sterility testing"
+    },
+    {
+     "es": "Ensamble electrónico y óptico",
+     "en": "Electronic and optical assembly"
+    }
+   ],
+   "notes": {
+    "es": "También fabricamos gabinetes de flujo laminar tipo II, clase A y clase B; especificaciones bajo solicitud.",
+    "en": "We also build Type II laminar flow cabinets, class A and class B; specifications on request."
+   },
+   "models": [
+    {
+     "code": "CFH-60",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-flujo-laminar/cfh-60/",
+      "en": "https://figursa.com/en/products/laminar-flow-hoods/cfh-60/"
+     },
+     "specs": {
+      "flow": {
+       "es": "Horizontal",
+       "en": "Horizontal"
+      },
+      "outer": "67 × 80 × 200 cm"
+     }
+    },
+    {
+     "code": "CFV-60",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-flujo-laminar/cfv-60/",
+      "en": "https://figursa.com/en/products/laminar-flow-hoods/cfv-60/"
+     },
+     "specs": {
+      "flow": {
+       "es": "Vertical",
+       "en": "Vertical"
+      },
+      "outer": "67 × 80 × 200 cm"
+     }
+    },
+    {
+     "code": "CFH-90",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-flujo-laminar/cfh-90/",
+      "en": "https://figursa.com/en/products/laminar-flow-hoods/cfh-90/"
+     },
+     "specs": {
+      "flow": {
+       "es": "Horizontal",
+       "en": "Horizontal"
+      },
+      "outer": "97 × 80 × 200 cm"
+     }
+    },
+    {
+     "code": "CFV-90",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-flujo-laminar/cfv-90/",
+      "en": "https://figursa.com/en/products/laminar-flow-hoods/cfv-90/"
+     },
+     "specs": {
+      "flow": {
+       "es": "Vertical",
+       "en": "Vertical"
+      },
+      "outer": "97 × 80 × 200 cm"
+     }
+    },
+    {
+     "code": "CFH-120",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-flujo-laminar/cfh-120/",
+      "en": "https://figursa.com/en/products/laminar-flow-hoods/cfh-120/"
+     },
+     "specs": {
+      "flow": {
+       "es": "Horizontal",
+       "en": "Horizontal"
+      },
+      "outer": "127 × 80 × 200 cm"
+     }
+    },
+    {
+     "code": "CFV-120",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-flujo-laminar/cfv-120/",
+      "en": "https://figursa.com/en/products/laminar-flow-hoods/cfv-120/"
+     },
+     "specs": {
+      "flow": {
+       "es": "Vertical",
+       "en": "Vertical"
+      },
+      "outer": "127 × 80 × 200 cm"
+     }
+    },
+    {
+     "code": "CFH-180",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-flujo-laminar/cfh-180/",
+      "en": "https://figursa.com/en/products/laminar-flow-hoods/cfh-180/"
+     },
+     "specs": {
+      "flow": {
+       "es": "Horizontal",
+       "en": "Horizontal"
+      },
+      "outer": "187 × 80 × 200 cm"
+     }
+    },
+    {
+     "code": "CFV-180",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-flujo-laminar/cfv-180/",
+      "en": "https://figursa.com/en/products/laminar-flow-hoods/cfv-180/"
+     },
+     "specs": {
+      "flow": {
+       "es": "Vertical",
+       "en": "Vertical"
+      },
+      "outer": "187 × 80 × 200 cm"
+     }
+    }
+   ]
+  },
+  {
+   "id": "camaras-climaticas",
+   "name": {
+    "es": "Cámaras climáticas",
+    "en": "Climate chambers"
+   },
+   "summary": {
+    "es": "Temperatura y humedad controladas para estabilidad, envejecimiento y crecimiento.",
+    "en": "Controlled temperature and humidity for stability, ageing and growth studies."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/camaras-climaticas/",
+    "en": "https://figursa.com/en/products/climate-chambers/"
+   },
+   "features": [
+    {
+     "es": "Control digital de temperatura: ambiente + 5 °C a 70 °C, sensibilidad ± 0.1 °C",
+     "en": "Digital temperature control: ambient + 5 °C to 70 °C, ± 0.1 °C sensitivity"
+    },
+    {
+     "es": "Control digital de humedad: 10 a 90 % HR",
+     "en": "Digital humidity control: 10 to 90 % RH"
+    },
+    {
+     "es": "Interior de acero inoxidable T-304, sello magnético",
+     "en": "T-304 stainless interior, magnetic seal"
+    },
+    {
+     "es": "Registrador de temperatura y humedad opcional",
+     "en": "Optional temperature and humidity recorder"
+    },
+    {
+     "es": "Interfaz a computadora y sistemas supervisorios opcionales",
+     "en": "Optional computer interface and supervisory systems"
+    },
+    {
+     "es": "Alimentación 120 V, 60 Hz",
+     "en": "120 V, 60 Hz power"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Estudios de estabilidad",
+     "en": "Stability studies"
+    },
+    {
+     "es": "Envejecimiento acelerado de materiales",
+     "en": "Accelerated ageing of materials"
+    },
+    {
+     "es": "Crecimiento de plantas y germinación",
+     "en": "Plant growth and germination"
+    },
+    {
+     "es": "Investigación en alimentos y medio ambiente",
+     "en": "Food and environmental research"
+    }
+   ],
+   "notes": {
+    "es": "Pregunte por tamaños especiales, atmósferas controladas de CO₂ u ozono, iluminación interior, programadores y supervisión remota.",
+    "en": "Ask about special sizes, controlled CO₂ or ozone atmospheres, interior lighting, programmers and remote supervision."
+   },
+   "models": [
+    {
+     "code": "CH-6040",
+     "url": {
+      "es": "https://figursa.com/productos/camaras-climaticas/ch-6040/",
+      "en": "https://figursa.com/en/products/climate-chambers/ch-6040/"
+     },
+     "specs": {
+      "inner": "60 × 40 × 30 cm",
+      "cap": "72 L"
+     }
+    },
+    {
+     "code": "CH-6050",
+     "url": {
+      "es": "https://figursa.com/productos/camaras-climaticas/ch-6050/",
+      "en": "https://figursa.com/en/products/climate-chambers/ch-6050/"
+     },
+     "specs": {
+      "inner": "60 × 50 × 35 cm",
+      "cap": "105 L"
+     }
+    },
+    {
+     "code": "CH-6070",
+     "url": {
+      "es": "https://figursa.com/productos/camaras-climaticas/ch-6070/",
+      "en": "https://figursa.com/en/products/climate-chambers/ch-6070/"
+     },
+     "specs": {
+      "inner": "60 × 70 × 40 cm",
+      "cap": "168 L"
+     }
+    },
+    {
+     "code": "CH-7080",
+     "url": {
+      "es": "https://figursa.com/productos/camaras-climaticas/ch-7080/",
+      "en": "https://figursa.com/en/products/climate-chambers/ch-7080/"
+     },
+     "specs": {
+      "inner": "70 × 80 × 55 cm",
+      "cap": "308 L"
+     }
+    },
+    {
+     "code": "CH-7090",
+     "url": {
+      "es": "https://figursa.com/productos/camaras-climaticas/ch-7090/",
+      "en": "https://figursa.com/en/products/climate-chambers/ch-7090/"
+     },
+     "specs": {
+      "inner": "70 × 90 × 60 cm",
+      "cap": "378 L"
+     }
+    },
+    {
+     "code": "CH-7150",
+     "url": {
+      "es": "https://figursa.com/productos/camaras-climaticas/ch-7150/",
+      "en": "https://figursa.com/en/products/climate-chambers/ch-7150/"
+     },
+     "specs": {
+      "inner": "70 × 150 × 60 cm",
+      "cap": "630 L"
+     }
+    },
+    {
+     "code": "CH-9155",
+     "url": {
+      "es": "https://figursa.com/productos/camaras-climaticas/ch-9155/",
+      "en": "https://figursa.com/en/products/climate-chambers/ch-9155/"
+     },
+     "specs": {
+      "inner": "90 × 155 × 70 cm",
+      "cap": "976 L"
+     }
+    },
+    {
+     "code": "GERMINADOR-388",
+     "url": {
+      "es": "https://figursa.com/productos/camaras-climaticas/germinador-388/",
+      "en": "https://figursa.com/en/products/climate-chambers/germinador-388/"
+     },
+     "specs": {
+      "inner": "58 × 147 × 57 cm",
+      "cap": "793 L (28 ft³)"
+     },
+     "features": [
+      {
+       "es": "Temperatura: −5 a 55 °C sin luz; 15 a 55 °C con luz",
+       "en": "Temperature: −5 to 55 °C without lights; 15 to 55 °C with lights"
+      },
+      {
+       "es": "Humedad relativa: de ambiente a 75 %",
+       "en": "Relative humidity: ambient to 75 %"
+      },
+      {
+       "es": "5 estados de iluminación programables en 24 h: 4 lámparas incandescentes y 10 fluorescentes",
+       "en": "5 lighting states programmable over 24 h: 4 incandescent and 10 fluorescent lamps"
+      },
+      {
+       "es": "Temperatura y humedad programables en ciclos de 24 h, con panel de control externo",
+       "en": "Temperature and humidity programmable in 24 h cycles, with an external control panel"
+      },
+      {
+       "es": "6 charolas ajustables",
+       "en": "6 adjustable shelves"
+      },
+      {
+       "es": "Dimensiones exteriores 79 × 182 × 91 cm; peso neto 180 kg",
+       "en": "Outer dimensions 79 × 182 × 91 cm; net weight 180 kg"
+      },
+      {
+       "es": "Registrador de temperatura y humedad opcional",
+       "en": "Optional temperature and humidity recorder"
+      },
+      {
+       "es": "Alimentación 120 V, 60 Hz",
+       "en": "120 V, 60 Hz power"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "campanas-de-extraccion",
+   "name": {
+    "es": "Campanas de extracción de gases",
+    "en": "Fume hoods"
+   },
+   "summary": {
+    "es": "Protección del personal en digestiones, destilaciones y preparación de reactivos.",
+    "en": "Operator protection during digestions, distillations and reagent preparation."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/campanas-de-extraccion/",
+    "en": "https://figursa.com/en/products/fume-hoods/"
+   },
+   "features": [
+    {
+     "es": "Iluminación interior y extractor",
+     "en": "Interior lighting and extractor"
+    },
+    {
+     "es": "Llaves de agua y gas, contactos eléctricos (serie CEG)",
+     "en": "Water and gas taps, electrical outlets (CEG series)"
+    },
+    {
+     "es": "Puerta guillotina con cristal inastillable o acrílico",
+     "en": "Sash with shatter-proof glass or acrylic"
+    },
+    {
+     "es": "Extractor a prueba de explosión y extractores remotos opcionales",
+     "en": "Optional explosion-proof and remote extractors"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Digestiones Kjeldahl",
+     "en": "Kjeldahl digestion"
+    },
+    {
+     "es": "Evaporación y destilación",
+     "en": "Evaporation and distillation"
+    },
+    {
+     "es": "Preparación de reactivos",
+     "en": "Reagent preparation"
+    },
+    {
+     "es": "Plantas piloto (CEG-240)",
+     "en": "Pilot plants (CEG-240)"
+    }
+   ],
+   "models": [
+    {
+     "code": "CE-60",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-extraccion/ce-60/",
+      "en": "https://figursa.com/en/products/fume-hoods/ce-60/"
+     },
+     "specs": {
+      "type": {
+       "es": "Sobre mesa, sin gabinete ni servicios",
+       "en": "Bench-top, no cabinet or services"
+      },
+      "outer": "80 × 76 × 117 cm"
+     }
+    },
+    {
+     "code": "CE-90",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-extraccion/ce-90/",
+      "en": "https://figursa.com/en/products/fume-hoods/ce-90/"
+     },
+     "specs": {
+      "type": {
+       "es": "Sobre mesa, sin gabinete ni servicios",
+       "en": "Bench-top, no cabinet or services"
+      },
+      "outer": "110 × 76 × 117 cm"
+     }
+    },
+    {
+     "code": "CE-120",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-extraccion/ce-120/",
+      "en": "https://figursa.com/en/products/fume-hoods/ce-120/"
+     },
+     "specs": {
+      "type": {
+       "es": "Sobre mesa, sin gabinete ni servicios",
+       "en": "Bench-top, no cabinet or services"
+      },
+      "outer": "140 × 76 × 117 cm"
+     }
+    },
+    {
+     "code": "CE-150",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-extraccion/ce-150/",
+      "en": "https://figursa.com/en/products/fume-hoods/ce-150/"
+     },
+     "specs": {
+      "type": {
+       "es": "Sobre mesa, sin gabinete ni servicios",
+       "en": "Bench-top, no cabinet or services"
+      },
+      "outer": "170 × 76 × 117 cm"
+     }
+    },
+    {
+     "code": "CE-180",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-extraccion/ce-180/",
+      "en": "https://figursa.com/en/products/fume-hoods/ce-180/"
+     },
+     "specs": {
+      "type": {
+       "es": "Sobre mesa, sin gabinete ni servicios",
+       "en": "Bench-top, no cabinet or services"
+      },
+      "outer": "200 × 76 × 117 cm"
+     }
+    },
+    {
+     "code": "CEG-60",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-extraccion/ceg-60/",
+      "en": "https://figursa.com/en/products/fume-hoods/ceg-60/"
+     },
+     "specs": {
+      "type": {
+       "es": "Con gabinete inferior y servicios",
+       "en": "With base cabinet and services"
+      },
+      "outer": "80 × 76 × 210 cm"
+     }
+    },
+    {
+     "code": "CEG-90",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-extraccion/ceg-90/",
+      "en": "https://figursa.com/en/products/fume-hoods/ceg-90/"
+     },
+     "specs": {
+      "type": {
+       "es": "Con gabinete inferior y servicios",
+       "en": "With base cabinet and services"
+      },
+      "outer": "110 × 76 × 210 cm"
+     }
+    },
+    {
+     "code": "CEG-120",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-extraccion/ceg-120/",
+      "en": "https://figursa.com/en/products/fume-hoods/ceg-120/"
+     },
+     "specs": {
+      "type": {
+       "es": "Con gabinete inferior y servicios",
+       "en": "With base cabinet and services"
+      },
+      "outer": "140 × 76 × 210 cm"
+     }
+    },
+    {
+     "code": "CEG-150",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-extraccion/ceg-150/",
+      "en": "https://figursa.com/en/products/fume-hoods/ceg-150/"
+     },
+     "specs": {
+      "type": {
+       "es": "Con gabinete inferior y servicios",
+       "en": "With base cabinet and services"
+      },
+      "outer": "170 × 76 × 210 cm"
+     }
+    },
+    {
+     "code": "CEG-180",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-extraccion/ceg-180/",
+      "en": "https://figursa.com/en/products/fume-hoods/ceg-180/"
+     },
+     "specs": {
+      "type": {
+       "es": "Con gabinete inferior y servicios",
+       "en": "With base cabinet and services"
+      },
+      "outer": "200 × 76 × 210 cm"
+     }
+    },
+    {
+     "code": "CEG-240",
+     "url": {
+      "es": "https://figursa.com/productos/campanas-de-extraccion/ceg-240/",
+      "en": "https://figursa.com/en/products/fume-hoods/ceg-240/"
+     },
+     "specs": {
+      "type": {
+       "es": "Con rack para pruebas piloto",
+       "en": "With rack for pilot tests"
+      },
+      "outer": "240 × 76 × 220 cm"
+     }
+    }
+   ]
+  },
+  {
+   "id": "kjeldahl",
+   "name": {
+    "es": "Equipos Kjeldahl",
+    "en": "Kjeldahl apparatus"
+   },
+   "summary": {
+    "es": "Digestión y destilación para determinar proteína y nitrógeno.",
+    "en": "Digestion and distillation for protein and nitrogen determination."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/kjeldahl/",
+    "en": "https://figursa.com/en/products/kjeldahl/"
+   },
+   "features": [
+    {
+     "es": "Controles de calentamiento independientes por plaza",
+     "en": "Independent heating control per place"
+    },
+    {
+     "es": "Soportes de acero inoxidable T-304 sobre base resistente al ácido",
+     "en": "T-304 stainless supports on an acid-resistant base"
+    },
+    {
+     "es": "Tubos del destilador de acero inoxidable soldados al condensador",
+     "en": "Stainless distiller tubes welded to the condenser"
+    },
+    {
+     "es": "Extracción de vapores motorizada en digestores de 6 plazas",
+     "en": "Motorized fume extraction on 6-place digesters"
+    },
+    {
+     "es": "Termómetro de carátula en la salida de agua de enfriamiento (destiladores de 6 plazas)",
+     "en": "Dial thermometer on the cooling-water outlet (6-place distillers)"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Proteína en alimentos y forrajes",
+     "en": "Protein in food and feed"
+    },
+    {
+     "es": "Nitrógeno en suelos, aguas y fertilizantes",
+     "en": "Nitrogen in soil, water and fertilizers"
+    },
+    {
+     "es": "Docencia en bromatología",
+     "en": "Food-science teaching"
+    }
+   ],
+   "notes": {
+    "es": "Complementos: unidades de titulación, dosificación de sosa, carros para garrafones y matraces, y fabricaciones especiales.",
+    "en": "Accessories: titration units, caustic-soda dosing, carboy and flask carts, and special builds."
+   },
+   "models": [
+    {
+     "code": "DMK-650",
+     "url": {
+      "es": "https://figursa.com/productos/kjeldahl/dmk-650/",
+      "en": "https://figursa.com/en/products/kjeldahl/dmk-650/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Micro destilador",
+       "en": "Micro distiller"
+      },
+      "units": "1"
+     }
+    },
+    {
+     "code": "DGMK-630",
+     "url": {
+      "es": "https://figursa.com/productos/kjeldahl/dgmk-630/",
+      "en": "https://figursa.com/en/products/kjeldahl/dgmk-630/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Micro digestor",
+       "en": "Micro digester"
+      },
+      "units": "6"
+     }
+    },
+    {
+     "code": "DK-2500",
+     "url": {
+      "es": "https://figursa.com/productos/kjeldahl/dk-2500/",
+      "en": "https://figursa.com/en/products/kjeldahl/dk-2500/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Destilador, matraces de 500 a 800 mL",
+       "en": "Distiller, 500 to 800 mL flasks"
+      },
+      "units": "2"
+     }
+    },
+    {
+     "code": "DGK-2800",
+     "url": {
+      "es": "https://figursa.com/productos/kjeldahl/dgk-2800/",
+      "en": "https://figursa.com/en/products/kjeldahl/dgk-2800/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Digestor, matraces de 500 a 800 mL",
+       "en": "Digester, 500 to 800 mL flasks"
+      },
+      "units": "2"
+     }
+    },
+    {
+     "code": "KC-3000",
+     "url": {
+      "es": "https://figursa.com/productos/kjeldahl/kc-3000/",
+      "en": "https://figursa.com/en/products/kjeldahl/kc-3000/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Combinado digestión y destilación",
+       "en": "Combined digestion and distillation"
+      },
+      "units": "2"
+     }
+    },
+    {
+     "code": "DK-6500",
+     "url": {
+      "es": "https://figursa.com/productos/kjeldahl/dk-6500/",
+      "en": "https://figursa.com/en/products/kjeldahl/dk-6500/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Destilador, matraces de 500 a 800 mL",
+       "en": "Distiller, 500 to 800 mL flasks"
+      },
+      "units": "6"
+     }
+    },
+    {
+     "code": "DGK-6800",
+     "url": {
+      "es": "https://figursa.com/productos/kjeldahl/dgk-6800/",
+      "en": "https://figursa.com/en/products/kjeldahl/dgk-6800/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Digestor, matraces de 500 a 800 mL",
+       "en": "Digester, 500 to 800 mL flasks"
+      },
+      "units": "6"
+     }
+    },
+    {
+     "code": "KC-12500",
+     "url": {
+      "es": "https://figursa.com/productos/kjeldahl/kc-12500/",
+      "en": "https://figursa.com/en/products/kjeldahl/kc-12500/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Combinado digestión y destilación",
+       "en": "Combined digestion and distillation"
+      },
+      "units": "6"
+     }
+    },
+    {
+     "code": "KC-24800",
+     "url": {
+      "es": "https://figursa.com/productos/kjeldahl/kc-24800/",
+      "en": "https://figursa.com/en/products/kjeldahl/kc-24800/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Combinado digestión y destilación",
+       "en": "Combined digestion and distillation"
+      },
+      "units": "12"
+     }
+    }
+   ]
+  },
+  {
+   "id": "extractores-goldfisch",
+   "name": {
+    "es": "Extractores de grasa Goldfisch",
+    "en": "Goldfisch fat extractors"
+   },
+   "summary": {
+    "es": "Determinación rápida de grasas y aceites por extracción con disolventes.",
+    "en": "Fast determination of fats and oils by solvent extraction."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/extractores-goldfisch/",
+    "en": "https://figursa.com/en/products/goldfisch-fat-extractors/"
+   },
+   "features": [
+    {
+     "es": "6 condensadores con soporte para tubo portacartucho o tubo recuperador",
+     "en": "6 condensers with holders for the thimble tube or recovery tube"
+    },
+    {
+     "es": "Parrillas individuales de 100 W",
+     "en": "Individual 100 W heaters"
+    },
+    {
+     "es": "Control por termostato de tiempo para cada dos parrillas",
+     "en": "Time-proportioning thermostat for every two heaters"
+    },
+    {
+     "es": "Agua de enfriamiento con conexión de 1/2\" NPT",
+     "en": "Cooling water, 1/2\" NPT connection"
+    },
+    {
+     "es": "Alimentación 127 V, 60 Hz",
+     "en": "127 V, 60 Hz power"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Grasa cruda en alimentos y forrajes",
+     "en": "Crude fat in food and feed"
+    },
+    {
+     "es": "Aceites y grasas en productos agrícolas",
+     "en": "Oils and fats in agricultural products"
+    },
+    {
+     "es": "Docencia en bromatología",
+     "en": "Food-science teaching"
+    }
+   ],
+   "models": [
+    {
+     "code": "EG-4000",
+     "url": {
+      "es": "https://figursa.com/productos/extractores-goldfisch/eg-4000/",
+      "en": "https://figursa.com/en/products/goldfisch-fat-extractors/eg-4000/"
+     },
+     "specs": {
+      "units": "6",
+      "outer": "68 × 91 × 23 cm",
+      "power": "600 W"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fibra-cruda",
+   "name": {
+    "es": "Determinadores de fibra cruda",
+    "en": "Crude fiber apparatus"
+   },
+   "summary": {
+    "es": "Fibra cruda en forrajes, alimentos y productos agrícolas por reflujo.",
+    "en": "Crude fiber in feed, food and agricultural products by reflux."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/fibra-cruda/",
+    "en": "https://figursa.com/en/products/crude-fiber-apparatus/"
+   },
+   "features": [
+    {
+     "es": "6 calentadores con control de temperatura individual tipo infinito",
+     "en": "6 heaters with individual infinite-type temperature control"
+    },
+    {
+     "es": "Condensadores de acero inoxidable",
+     "en": "Stainless-steel condensers"
+    },
+    {
+     "es": "Vasos de precipitado de forma alta de 600 mL",
+     "en": "600 mL tall-form beakers"
+    },
+    {
+     "es": "Requiere agua de enfriamiento y drenaje",
+     "en": "Requires cooling water and drain"
+    },
+    {
+     "es": "Alimentación 127 V, 60 Hz",
+     "en": "127 V, 60 Hz power"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Fibra cruda en forrajes y alimentos",
+     "en": "Crude fiber in feed and food"
+    },
+    {
+     "es": "Laboratorios de gobierno e industria",
+     "en": "Government and industrial laboratories"
+    },
+    {
+     "es": "Docencia en bromatología",
+     "en": "Food-science teaching"
+    }
+   ],
+   "models": [
+    {
+     "code": "EFC-6000",
+     "url": {
+      "es": "https://figursa.com/productos/fibra-cruda/efc-6000/",
+      "en": "https://figursa.com/en/products/crude-fiber-apparatus/efc-6000/"
+     },
+     "specs": {
+      "units": "6",
+      "power": "2100 W"
+     }
+    }
+   ]
+  },
+  {
+   "id": "extractores-soxhlet",
+   "name": {
+    "es": "Extractores tipo Soxhlet",
+    "en": "Soxhlet extractors"
+   },
+   "summary": {
+    "es": "Seis unidades de calentamiento para extracciones, destilaciones y digestiones.",
+    "en": "Six heating units for extractions, distillations and digestions."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/extractores-soxhlet/",
+    "en": "https://figursa.com/en/products/soxhlet-extractors/"
+   },
+   "features": [
+    {
+     "es": "Control de temperatura y piloto independiente por unidad",
+     "en": "Independent temperature control and pilot light per unit"
+    },
+    {
+     "es": "Parrillas circulares de aluminio",
+     "en": "Round aluminium heaters"
+    },
+    {
+     "es": "Dos soportes por unidad",
+     "en": "Two supports per unit"
+    },
+    {
+     "es": "Alimentación 127 V, 60 Hz",
+     "en": "127 V, 60 Hz power"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Extracción de grasas y aceites",
+     "en": "Fat and oil extraction"
+    },
+    {
+     "es": "Destilaciones y digestiones",
+     "en": "Distillations and digestions"
+    }
+   ],
+   "models": [
+    {
+     "code": "ES-5000",
+     "url": {
+      "es": "https://figursa.com/productos/extractores-soxhlet/es-5000/",
+      "en": "https://figursa.com/en/products/soxhlet-extractors/es-5000/"
+     },
+     "specs": {
+      "units": "6",
+      "power": "600 W"
+     }
+    }
+   ]
+  },
+  {
+   "id": "incubadoras",
+   "name": {
+    "es": "Incubadoras",
+    "en": "Incubators"
+   },
+   "summary": {
+    "es": "Estufas de cultivo, circulación forzada, DBO, baja temperatura y orbitales.",
+    "en": "Culture incubators: forced-air, BOD, low-temperature and orbital."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/incubadoras/",
+    "en": "https://figursa.com/en/products/incubators/"
+   },
+   "features": [
+    {
+     "es": "Control electrónico, sensibilidad ± 0.1 °C",
+     "en": "Electronic control, ± 0.1 °C sensitivity"
+    },
+    {
+     "es": "Indicador digital de temperatura",
+     "en": "Digital temperature display"
+    },
+    {
+     "es": "Puerta interior de acrílico con sello hermético",
+     "en": "Inner acrylic door with airtight seal"
+    },
+    {
+     "es": "Sello magnético",
+     "en": "Magnetic seal"
+    },
+    {
+     "es": "Alimentación 120 V, 60 Hz",
+     "en": "120 V, 60 Hz power"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Microbiología y cultivo",
+     "en": "Microbiology and culture"
+    },
+    {
+     "es": "Demanda bioquímica de oxígeno (DBO) en aguas",
+     "en": "Biochemical oxygen demand (BOD) in water"
+    },
+    {
+     "es": "Cultivos en agitación",
+     "en": "Shaken cultures"
+    }
+   ],
+   "models": [
+    {
+     "code": "I-35",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/i-35/",
+      "en": "https://figursa.com/en/products/incubators/i-35/"
+     },
+     "specs": {
+      "series": {
+       "es": "Estándar, acero inoxidable",
+       "en": "Standard, stainless"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": "35 × 35 × 35 cm",
+      "cap": "42 L"
+     }
+    },
+    {
+     "code": "I-45",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/i-45/",
+      "en": "https://figursa.com/en/products/incubators/i-45/"
+     },
+     "specs": {
+      "series": {
+       "es": "Estándar, acero inoxidable",
+       "en": "Standard, stainless"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": "45 × 45 × 40 cm",
+      "cap": "81 L"
+     }
+    },
+    {
+     "code": "I-60",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/i-60/",
+      "en": "https://figursa.com/en/products/incubators/i-60/"
+     },
+     "specs": {
+      "series": {
+       "es": "Estándar, acero inoxidable",
+       "en": "Standard, stainless"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": "60 × 50 × 50 cm",
+      "cap": "150 L"
+     }
+    },
+    {
+     "code": "I-70",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/i-70/",
+      "en": "https://figursa.com/en/products/incubators/i-70/"
+     },
+     "specs": {
+      "series": {
+       "es": "Estándar, acero inoxidable",
+       "en": "Standard, stainless"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": "70 × 65 × 45 cm",
+      "cap": "204 L"
+     }
+    },
+    {
+     "code": "IFD-35",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/ifd-35/",
+      "en": "https://figursa.com/en/products/incubators/ifd-35/"
+     },
+     "specs": {
+      "series": {
+       "es": "Circulación forzada",
+       "en": "Forced air"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": "35 × 35 × 30 cm",
+      "cap": "37 L"
+     }
+    },
+    {
+     "code": "IFD-45",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/ifd-45/",
+      "en": "https://figursa.com/en/products/incubators/ifd-45/"
+     },
+     "specs": {
+      "series": {
+       "es": "Circulación forzada",
+       "en": "Forced air"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": "45 × 45 × 35 cm",
+      "cap": "71 L"
+     }
+    },
+    {
+     "code": "IFD-60",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/ifd-60/",
+      "en": "https://figursa.com/en/products/incubators/ifd-60/"
+     },
+     "specs": {
+      "series": {
+       "es": "Circulación forzada",
+       "en": "Forced air"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": "60 × 50 × 45 cm",
+      "cap": "135 L"
+     }
+    },
+    {
+     "code": "IFD-70",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/ifd-70/",
+      "en": "https://figursa.com/en/products/incubators/ifd-70/"
+     },
+     "specs": {
+      "series": {
+       "es": "Circulación forzada",
+       "en": "Forced air"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": "70 × 65 × 40 cm",
+      "cap": "182 L"
+     }
+    },
+    {
+     "code": "IFD-100",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/ifd-100/",
+      "en": "https://figursa.com/en/products/incubators/ifd-100/"
+     },
+     "specs": {
+      "series": {
+       "es": "Circulación forzada",
+       "en": "Forced air"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": "100 × 80 × 60 cm",
+      "cap": "480 L"
+     }
+    },
+    {
+     "code": "IDB-50",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/idb-50/",
+      "en": "https://figursa.com/en/products/incubators/idb-50/"
+     },
+     "specs": {
+      "series": {
+       "es": "DBO, refrigerada",
+       "en": "BOD, refrigerated"
+      },
+      "range": {
+       "es": "0 a 50 °C",
+       "en": "0 to 50 °C"
+      },
+      "inner": "45 × 45 × 35 cm",
+      "cap": "70 L"
+     }
+    },
+    {
+     "code": "IDB-100",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/idb-100/",
+      "en": "https://figursa.com/en/products/incubators/idb-100/"
+     },
+     "specs": {
+      "series": {
+       "es": "DBO, refrigerada",
+       "en": "BOD, refrigerated"
+      },
+      "range": {
+       "es": "0 a 50 °C",
+       "en": "0 to 50 °C"
+      },
+      "inner": "70 × 65 × 40 cm",
+      "cap": "182 L"
+     }
+    },
+    {
+     "code": "IDB-200",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/idb-200/",
+      "en": "https://figursa.com/en/products/incubators/idb-200/"
+     },
+     "specs": {
+      "series": {
+       "es": "DBO, refrigerada",
+       "en": "BOD, refrigerated"
+      },
+      "range": {
+       "es": "0 a 50 °C",
+       "en": "0 to 50 °C"
+      },
+      "inner": "100 × 70 × 50 cm",
+      "cap": "350 L"
+     }
+    },
+    {
+     "code": "IDB-300",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/idb-300/",
+      "en": "https://figursa.com/en/products/incubators/idb-300/"
+     },
+     "specs": {
+      "series": {
+       "es": "DBO, refrigerada",
+       "en": "BOD, refrigerated"
+      },
+      "range": {
+       "es": "0 a 50 °C",
+       "en": "0 to 50 °C"
+      },
+      "inner": "145 × 70 × 50 cm",
+      "cap": "507 L"
+     }
+    },
+    {
+     "code": "IBTF-050",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/ibtf-050/",
+      "en": "https://figursa.com/en/products/incubators/ibtf-050/"
+     },
+     "specs": {
+      "series": {
+       "es": "Baja temperatura",
+       "en": "Low temperature"
+      },
+      "range": {
+       "es": "−10 a 50 °C",
+       "en": "−10 to 50 °C"
+      },
+      "inner": "45 × 45 × 35 cm",
+      "cap": "70 L"
+     }
+    },
+    {
+     "code": "IBTF-100",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/ibtf-100/",
+      "en": "https://figursa.com/en/products/incubators/ibtf-100/"
+     },
+     "specs": {
+      "series": {
+       "es": "Baja temperatura",
+       "en": "Low temperature"
+      },
+      "range": {
+       "es": "−10 a 50 °C",
+       "en": "−10 to 50 °C"
+      },
+      "inner": "70 × 65 × 40 cm",
+      "cap": "182 L"
+     }
+    },
+    {
+     "code": "IBTF-200",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/ibtf-200/",
+      "en": "https://figursa.com/en/products/incubators/ibtf-200/"
+     },
+     "specs": {
+      "series": {
+       "es": "Baja temperatura",
+       "en": "Low temperature"
+      },
+      "range": {
+       "es": "−10 a 50 °C",
+       "en": "−10 to 50 °C"
+      },
+      "inner": "100 × 70 × 50 cm",
+      "cap": "350 L"
+     }
+    },
+    {
+     "code": "IBTF-300",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/ibtf-300/",
+      "en": "https://figursa.com/en/products/incubators/ibtf-300/"
+     },
+     "specs": {
+      "series": {
+       "es": "Baja temperatura",
+       "en": "Low temperature"
+      },
+      "range": {
+       "es": "−10 a 50 °C",
+       "en": "−10 to 50 °C"
+      },
+      "inner": "145 × 70 × 50 cm",
+      "cap": "507 L"
+     }
+    },
+    {
+     "code": "IOD-500",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/iod-500/",
+      "en": "https://figursa.com/en/products/incubators/iod-500/"
+     },
+     "specs": {
+      "series": {
+       "es": "Orbital",
+       "en": "Orbital shaker"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": {
+       "es": "De mesa, tapa de acrílico",
+       "en": "Bench-top, acrylic lid"
+      },
+      "cap": "—"
+     }
+    },
+    {
+     "code": "IOD-600",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/iod-600/",
+      "en": "https://figursa.com/en/products/incubators/iod-600/"
+     },
+     "specs": {
+      "series": {
+       "es": "Orbital",
+       "en": "Orbital shaker"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": {
+       "es": "De mesa, tapa de acrílico",
+       "en": "Bench-top, acrylic lid"
+      },
+      "cap": "—"
+     }
+    },
+    {
+     "code": "IOPD-700",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/iopd-700/",
+      "en": "https://figursa.com/en/products/incubators/iopd-700/"
+     },
+     "specs": {
+      "series": {
+       "es": "Orbital",
+       "en": "Orbital shaker"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": {
+       "es": "De piso, con puerta",
+       "en": "Floor-standing, with door"
+      },
+      "cap": "—"
+     }
+    },
+    {
+     "code": "IOPD-800",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/iopd-800/",
+      "en": "https://figursa.com/en/products/incubators/iopd-800/"
+     },
+     "specs": {
+      "series": {
+       "es": "Orbital",
+       "en": "Orbital shaker"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": {
+       "es": "De piso, con puerta",
+       "en": "Floor-standing, with door"
+      },
+      "cap": "—"
+     }
+    },
+    {
+     "code": "IOPRD-900",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/ioprd-900/",
+      "en": "https://figursa.com/en/products/incubators/ioprd-900/"
+     },
+     "specs": {
+      "series": {
+       "es": "Orbital",
+       "en": "Orbital shaker"
+      },
+      "range": {
+       "es": "Refrigerada",
+       "en": "Refrigerated"
+      },
+      "inner": {
+       "es": "De piso, refrigerada, con puerta",
+       "en": "Floor-standing, refrigerated, with door"
+      },
+      "cap": "—"
+     }
+    },
+    {
+     "code": "IE-35",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/ie-35/",
+      "en": "https://figursa.com/en/products/incubators/ie-35/"
+     },
+     "specs": {
+      "series": {
+       "es": "Serie económica, aluminio",
+       "en": "Economy series, aluminium"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": "35 × 35 × 35 cm",
+      "cap": "42 L"
+     }
+    },
+    {
+     "code": "IE-45",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/ie-45/",
+      "en": "https://figursa.com/en/products/incubators/ie-45/"
+     },
+     "specs": {
+      "series": {
+       "es": "Serie económica, aluminio",
+       "en": "Economy series, aluminium"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": "45 × 45 × 40 cm",
+      "cap": "81 L"
+     }
+    },
+    {
+     "code": "IE-60",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/ie-60/",
+      "en": "https://figursa.com/en/products/incubators/ie-60/"
+     },
+     "specs": {
+      "series": {
+       "es": "Serie económica, aluminio",
+       "en": "Economy series, aluminium"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": "60 × 50 × 50 cm",
+      "cap": "150 L"
+     }
+    },
+    {
+     "code": "IE-70",
+     "url": {
+      "es": "https://figursa.com/productos/incubadoras/ie-70/",
+      "en": "https://figursa.com/en/products/incubators/ie-70/"
+     },
+     "specs": {
+      "series": {
+       "es": "Serie económica, aluminio",
+       "en": "Economy series, aluminium"
+      },
+      "range": {
+       "es": "Ambiente a 70 °C",
+       "en": "Ambient to 70 °C"
+      },
+      "inner": "70 × 65 × 45 cm",
+      "cap": "204 L"
+     }
+    }
+   ]
+  },
+  {
+   "id": "contadores-de-colonias",
+   "name": {
+    "es": "Contadores de colonias",
+    "en": "Colony counters"
+   },
+   "summary": {
+    "es": "Conteo de colonias bacterianas en cajas Petri, manual o electrónico.",
+    "en": "Counting bacterial colonies on Petri dishes, manual or electronic."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/contadores-de-colonias/",
+    "en": "https://figursa.com/en/products/colony-counters/"
+   },
+   "features": [
+    {
+     "es": "Lente de aumento 3X ajustable de 100 mm de diámetro",
+     "en": "Adjustable 3X magnifier, 100 mm diameter"
+    },
+    {
+     "es": "Cuadrícula de cristal esmaltada a fuego",
+     "en": "Fire-enamelled glass grid"
+    },
+    {
+     "es": "Fondo oscuro de contraste y luz reflejada indirecta",
+     "en": "Dark contrast background and indirect reflected light"
+    },
+    {
+     "es": "Botón de reinicio y botón de cuenta manual",
+     "en": "Reset button and manual count button"
+    },
+    {
+     "es": "Alimentación 127 V, 60 Hz",
+     "en": "127 V, 60 Hz power"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Conteo en placa en microbiología de alimentos y aguas",
+     "en": "Plate counts in food and water microbiology"
+    },
+    {
+     "es": "Docencia en microbiología",
+     "en": "Microbiology teaching"
+    }
+   ],
+   "models": [
+    {
+     "code": "CMF-300",
+     "url": {
+      "es": "https://figursa.com/productos/contadores-de-colonias/cmf-300/",
+      "en": "https://figursa.com/en/products/colony-counters/cmf-300/"
+     },
+     "specs": {
+      "cabinet": {
+       "es": "Esmaltado",
+       "en": "Enamelled"
+      },
+      "count": {
+       "es": "Botón manual",
+       "en": "Manual button"
+      },
+      "light": {
+       "es": "Fluorescente",
+       "en": "Fluorescent"
+      },
+      "display": {
+       "es": "Mecánico, 4 dígitos",
+       "en": "Mechanical, 4 digits"
+      }
+     }
+    },
+    {
+     "code": "CMI-3000",
+     "url": {
+      "es": "https://figursa.com/productos/contadores-de-colonias/cmi-3000/",
+      "en": "https://figursa.com/en/products/colony-counters/cmi-3000/"
+     },
+     "specs": {
+      "cabinet": {
+       "es": "Acero inoxidable",
+       "en": "Stainless steel"
+      },
+      "count": {
+       "es": "Botón manual",
+       "en": "Manual button"
+      },
+      "light": {
+       "es": "Incandescente",
+       "en": "Incandescent"
+      },
+      "display": {
+       "es": "Mecánico, 4 dígitos",
+       "en": "Mechanical, 4 digits"
+      }
+     }
+    },
+    {
+     "code": "CMF-3100",
+     "url": {
+      "es": "https://figursa.com/productos/contadores-de-colonias/cmf-3100/",
+      "en": "https://figursa.com/en/products/colony-counters/cmf-3100/"
+     },
+     "specs": {
+      "cabinet": {
+       "es": "Acero inoxidable",
+       "en": "Stainless steel"
+      },
+      "count": {
+       "es": "Botón manual",
+       "en": "Manual button"
+      },
+      "light": {
+       "es": "Fluorescente",
+       "en": "Fluorescent"
+      },
+      "display": {
+       "es": "Mecánico, 4 dígitos",
+       "en": "Mechanical, 4 digits"
+      }
+     }
+    },
+    {
+     "code": "CAF-3500",
+     "url": {
+      "es": "https://figursa.com/productos/contadores-de-colonias/caf-3500/",
+      "en": "https://figursa.com/en/products/colony-counters/caf-3500/"
+     },
+     "specs": {
+      "cabinet": {
+       "es": "Acero inoxidable",
+       "en": "Stainless steel"
+      },
+      "count": {
+       "es": "Plumilla de contacto, manual o automático",
+       "en": "Contact pen, manual or automatic"
+      },
+      "light": {
+       "es": "Fluorescente",
+       "en": "Fluorescent"
+      },
+      "display": {
+       "es": "Electrónico LCD, 5 dígitos",
+       "en": "Electronic LCD, 5 digits"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "incubadores-de-tubos",
+   "name": {
+    "es": "Incubadores de tubos",
+    "en": "Dry-block tube incubators"
+   },
+   "summary": {
+    "es": "Bloques secos de ambiente hasta 130 °C, de 1 a 6 bloques.",
+    "en": "Dry blocks from ambient to 130 °C, 1 to 6 blocks."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/incubadores-de-tubos/",
+    "en": "https://figursa.com/en/products/dry-block-incubators/"
+   },
+   "features": [
+    {
+     "es": "Rango de ambiente hasta 130 °C",
+     "en": "Range from ambient to 130 °C"
+    },
+    {
+     "es": "Control de estado sólido con sensor por termistor",
+     "en": "Solid-state control with thermistor sensor"
+    },
+    {
+     "es": "Bloques para tubos de 6, 10, 13, 16, 19 y 25 mm, y bloque combinado",
+     "en": "Blocks for 6, 10, 13, 16, 19 and 25 mm tubes, and a combined block"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Incubación de tubos en microbiología",
+     "en": "Tube incubation in microbiology"
+    },
+    {
+     "es": "Pruebas bioquímicas y de coliformes",
+     "en": "Biochemical and coliform tests"
+    }
+   ],
+   "notes": {
+    "es": "Bloques: BA-30 (30 tubos de 6 mm), BA-24 (24 de 10 mm), BA-20 (20 de 13 mm), BA-12 (12 de 16 mm), BA-8 (8 de 19 mm), BA-6 (6 de 25 mm) y BA-356 combinado (3 de 25, 5 de 13 y 6 de 6 mm).",
+    "en": "Blocks: BA-30 (30 × 6 mm tubes), BA-24 (24 × 10 mm), BA-20 (20 × 13 mm), BA-12 (12 × 16 mm), BA-8 (8 × 19 mm), BA-6 (6 × 25 mm) and combined BA-356 (3 × 25, 5 × 13 and 6 × 6 mm)."
+   },
+   "models": [
+    {
+     "code": "ITS-1B",
+     "url": {
+      "es": "https://figursa.com/productos/incubadores-de-tubos/its-1b/",
+      "en": "https://figursa.com/en/products/dry-block-incubators/its-1b/"
+     },
+     "specs": {
+      "units": "1",
+      "power": "100 W",
+      "outer": "20 × 13 × 8 cm"
+     }
+    },
+    {
+     "code": "ITS-2B",
+     "url": {
+      "es": "https://figursa.com/productos/incubadores-de-tubos/its-2b/",
+      "en": "https://figursa.com/en/products/dry-block-incubators/its-2b/"
+     },
+     "specs": {
+      "units": "2",
+      "power": "150 W",
+      "outer": "20 × 20 × 9 cm"
+     }
+    },
+    {
+     "code": "ITS-3B",
+     "url": {
+      "es": "https://figursa.com/productos/incubadores-de-tubos/its-3b/",
+      "en": "https://figursa.com/en/products/dry-block-incubators/its-3b/"
+     },
+     "specs": {
+      "units": "3",
+      "power": "200 W",
+      "outer": "28 × 22 × 9 cm"
+     }
+    },
+    {
+     "code": "ITS-4B",
+     "url": {
+      "es": "https://figursa.com/productos/incubadores-de-tubos/its-4b/",
+      "en": "https://figursa.com/en/products/dry-block-incubators/its-4b/"
+     },
+     "specs": {
+      "units": "4",
+      "power": "300 W",
+      "outer": "30 × 20 × 9 cm"
+     }
+    },
+    {
+     "code": "ITS-6B",
+     "url": {
+      "es": "https://figursa.com/productos/incubadores-de-tubos/its-6b/",
+      "en": "https://figursa.com/en/products/dry-block-incubators/its-6b/"
+     },
+     "specs": {
+      "units": "6",
+      "power": "400 W",
+      "outer": "30 × 28 × 9 cm"
+     }
+    }
+   ]
+  },
+  {
+   "id": "agitadores-de-tubos",
+   "name": {
+    "es": "Agitadores rotatorios de tubos",
+    "en": "Tube rotators"
+   },
+   "summary": {
+    "es": "Mezcla suave y constante en todos los planos para tubos de varios tamaños.",
+    "en": "Gentle, constant mixing in every plane for tubes of several sizes."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/agitadores-de-tubos/",
+    "en": "https://figursa.com/en/products/tube-rotators/"
+   },
+   "features": [
+    {
+     "es": "Velocidad de 18 rpm",
+     "en": "18 rpm speed"
+    },
+    {
+     "es": "Disco de 28 cm de diámetro con 12 soportes",
+     "en": "28 cm disc with 12 holders"
+    },
+    {
+     "es": "Base de 15 × 21 cm aprox.",
+     "en": "Base approx. 15 × 21 cm"
+    },
+    {
+     "es": "Alimentación 127 V, 60 Hz",
+     "en": "127 V, 60 Hz power"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Mezcla de muestras en tubos",
+     "en": "Mixing samples in tubes"
+    },
+    {
+     "es": "Hematología y laboratorio clínico",
+     "en": "Haematology and clinical laboratory"
+    }
+   ],
+   "models": [
+    {
+     "code": "RT-1224",
+     "url": {
+      "es": "https://figursa.com/productos/agitadores-de-tubos/rt-1224/",
+      "en": "https://figursa.com/en/products/tube-rotators/rt-1224/"
+     },
+     "specs": {
+      "speed": "18 rpm",
+      "cap": {
+       "es": "12 soportes",
+       "en": "12 holders"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "puntos-de-fusion",
+   "name": {
+    "es": "Determinadores de punto de fusión",
+    "en": "Melting-point apparatus"
+   },
+   "summary": {
+    "es": "Capilar digital hasta 199.9 o 350 °C, o de platina hasta 300 °C.",
+    "en": "Digital capillary up to 199.9 or 350 °C, or hot stage up to 300 °C."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/puntos-de-fusion/",
+    "en": "https://figursa.com/en/products/melting-point-apparatus/"
+   },
+   "features": [
+    {
+     "es": "Sensor de temperatura de platino",
+     "en": "Platinum temperature sensor"
+    },
+    {
+     "es": "Control electrónico con control de ciclo de calentamiento",
+     "en": "Electronic control with heating-cycle control"
+    },
+    {
+     "es": "Indicador digital con resolución de 0.1 °C",
+     "en": "Digital display, 0.1 °C resolution"
+    },
+    {
+     "es": "Lente de aumento 8X",
+     "en": "8X magnifier"
+    },
+    {
+     "es": "Bloque de aluminio para 1 a 3 capilares, aislado con cerámica",
+     "en": "Aluminium block for 1 to 3 capillaries, ceramic-insulated"
+    },
+    {
+     "es": "Incluye 100 tubos capilares",
+     "en": "Includes 100 capillary tubes"
+    },
+    {
+     "es": "Gabinete de acero zinconizado con acabado epóxico",
+     "en": "Zinc-coated steel cabinet with epoxy finish"
+    },
+    {
+     "es": "127 V, 60 Hz; consumo máximo 50 W",
+     "en": "127 V, 60 Hz; 50 W maximum"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Identificación y pureza de sólidos",
+     "en": "Identification and purity of solids"
+    },
+    {
+     "es": "Control de calidad farmacéutico y químico",
+     "en": "Pharmaceutical and chemical quality control"
+    },
+    {
+     "es": "Docencia en química orgánica",
+     "en": "Organic chemistry teaching"
+    }
+   ],
+   "models": [
+    {
+     "code": "PF-2000",
+     "url": {
+      "es": "https://figursa.com/productos/puntos-de-fusion/pf-2000/",
+      "en": "https://figursa.com/en/products/melting-point-apparatus/pf-2000/"
+     },
+     "specs": {
+      "type": {
+       "es": "Capilar digital",
+       "en": "Digital capillary"
+      },
+      "range": {
+       "es": "Ambiente a 199.9 °C",
+       "en": "Ambient to 199.9 °C"
+      }
+     }
+    },
+    {
+     "code": "PF-3500",
+     "url": {
+      "es": "https://figursa.com/productos/puntos-de-fusion/pf-3500/",
+      "en": "https://figursa.com/en/products/melting-point-apparatus/pf-3500/"
+     },
+     "specs": {
+      "type": {
+       "es": "Capilar digital",
+       "en": "Digital capillary"
+      },
+      "range": {
+       "es": "Ambiente a 350 °C",
+       "en": "Ambient to 350 °C"
+      }
+     }
+    },
+    {
+     "code": "PF-1400",
+     "url": {
+      "es": "https://figursa.com/productos/puntos-de-fusion/pf-1400/",
+      "en": "https://figursa.com/en/products/melting-point-apparatus/pf-1400/"
+     },
+     "specs": {
+      "type": {
+       "es": "Platina",
+       "en": "Hot stage"
+      },
+      "range": {
+       "es": "Termómetro de 20 a 300 °C",
+       "en": "Thermometer 20 to 300 °C"
+      }
+     },
+     "features": [
+      {
+       "es": "Platina termorregulable de aluminio",
+       "en": "Temperature-controlled aluminium hot stage"
+      },
+      {
+       "es": "Termómetro de mercurio de 20 a 300 °C con funda protectora",
+       "en": "Mercury thermometer, 20 to 300 °C, with protective sleeve"
+      },
+      {
+       "es": "Gabinete de acero zinconizado con acabado epóxico",
+       "en": "Zinc-coated steel cabinet with epoxy finish"
+      },
+      {
+       "es": "127 V, 60 Hz; consumo máximo 100 W",
+       "en": "127 V, 60 Hz; 100 W maximum"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pensky-martens",
+   "name": {
+    "es": "Copa cerrada Pensky-Martens",
+    "en": "Pensky-Martens closed cup"
+   },
+   "summary": {
+    "es": "Punto de inflamación de derivados del petróleo según ASTM D 93.",
+    "en": "Flash point of petroleum products to ASTM D 93."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/pensky-martens/",
+    "en": "https://figursa.com/en/products/pensky-martens-flash-point/"
+   },
+   "features": [
+    {
+     "es": "Cumple con ASTM D 93 y FSM 1102",
+     "en": "Meets ASTM D 93 and FSM 1102"
+    },
+    {
+     "es": "Calentador Ni-Cr de baja densidad y control electrónico",
+     "en": "Low-density Ni-Cr heater and electronic control"
+    },
+    {
+     "es": "Gabinete de acero inoxidable; copa torneada en bronce",
+     "en": "Stainless-steel cabinet; cup turned in bronze"
+    },
+    {
+     "es": "Quemador cromado con conexión de 1/8\" IPS",
+     "en": "Chrome burner with 1/8\" IPS connection"
+    },
+    {
+     "es": "Dimensiones aprox. 28 × 18 × 46 cm",
+     "en": "Approx. 28 × 18 × 46 cm"
+    },
+    {
+     "es": "127 V, 60 Hz; consumo 750 W",
+     "en": "127 V, 60 Hz; 750 W"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Combustibles y aceites",
+     "en": "Fuels and oils"
+    },
+    {
+     "es": "Control de calidad en la industria petrolera",
+     "en": "Quality control in the oil industry"
+    }
+   ],
+   "models": [
+    {
+     "code": "CPE-2600",
+     "url": {
+      "es": "https://figursa.com/productos/pensky-martens/cpe-2600/",
+      "en": "https://figursa.com/en/products/pensky-martens-flash-point/cpe-2600/"
+     },
+     "specs": {
+      "norm": "ASTM D 93",
+      "power": "750 W"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hornos",
+   "name": {
+    "es": "Hornos de secado",
+    "en": "Drying ovens"
+   },
+   "summary": {
+    "es": "Secado y esterilización en seco hasta 300 °C, con circulación forzada o vacío.",
+    "en": "Drying and dry sterilization up to 300 °C, with forced air or vacuum."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/hornos/",
+    "en": "https://figursa.com/en/products/ovens/"
+   },
+   "features": [
+    {
+     "es": "Hasta 300 °C según modelo",
+     "en": "Up to 300 °C depending on model"
+    },
+    {
+     "es": "Sensibilidad ± 0.1 °C",
+     "en": "± 0.1 °C sensitivity"
+    },
+    {
+     "es": "Elemento calefactor NiCr con aisladores cerámicos",
+     "en": "NiCr heater with ceramic insulators"
+    },
+    {
+     "es": "Ventila superior para vapores",
+     "en": "Top vent for vapours"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Secado de material y muestras",
+     "en": "Drying of labware and samples"
+    },
+    {
+     "es": "Determinación de humedad",
+     "en": "Moisture determination"
+    },
+    {
+     "es": "Secado al vacío",
+     "en": "Vacuum drying"
+    }
+   ],
+   "notes": {
+    "es": "Horno de vacío con conexiones para línea de vacío y manómetro de aguja, bajo solicitud.",
+    "en": "Vacuum oven with vacuum-line connections and needle gauge, on request."
+   },
+   "models": [
+    {
+     "code": "HD-35",
+     "url": {
+      "es": "https://figursa.com/productos/hornos/hd-35/",
+      "en": "https://figursa.com/en/products/ovens/hd-35/"
+     },
+     "specs": {
+      "series": {
+       "es": "Acero inoxidable",
+       "en": "Stainless steel"
+      },
+      "inner": "35 × 35 × 35 cm",
+      "cap": "42 L"
+     }
+    },
+    {
+     "code": "HD-40",
+     "url": {
+      "es": "https://figursa.com/productos/hornos/hd-40/",
+      "en": "https://figursa.com/en/products/ovens/hd-40/"
+     },
+     "specs": {
+      "series": {
+       "es": "Acero inoxidable",
+       "en": "Stainless steel"
+      },
+      "inner": "45 × 45 × 40 cm",
+      "cap": "72 L"
+     }
+    },
+    {
+     "code": "HD-55",
+     "url": {
+      "es": "https://figursa.com/productos/hornos/hd-55/",
+      "en": "https://figursa.com/en/products/ovens/hd-55/"
+     },
+     "specs": {
+      "series": {
+       "es": "Acero inoxidable",
+       "en": "Stainless steel"
+      },
+      "inner": "60 × 50 × 50 cm",
+      "cap": "137.5 L"
+     }
+    },
+    {
+     "code": "HFD-28",
+     "url": {
+      "es": "https://figursa.com/productos/hornos/hfd-28/",
+      "en": "https://figursa.com/en/products/ovens/hfd-28/"
+     },
+     "specs": {
+      "series": {
+       "es": "Circulación forzada",
+       "en": "Forced air"
+      },
+      "inner": "28 × 30 × 35 cm",
+      "cap": "30 L"
+     }
+    },
+    {
+     "code": "HFD-33",
+     "url": {
+      "es": "https://figursa.com/productos/hornos/hfd-33/",
+      "en": "https://figursa.com/en/products/ovens/hfd-33/"
+     },
+     "specs": {
+      "series": {
+       "es": "Circulación forzada",
+       "en": "Forced air"
+      },
+      "inner": "33 × 40 × 40 cm",
+      "cap": "53 L"
+     }
+    },
+    {
+     "code": "HFD-48",
+     "url": {
+      "es": "https://figursa.com/productos/hornos/hfd-48/",
+      "en": "https://figursa.com/en/products/ovens/hfd-48/"
+     },
+     "specs": {
+      "series": {
+       "es": "Circulación forzada",
+       "en": "Forced air"
+      },
+      "inner": "48 × 45 × 50 cm",
+      "cap": "108 L"
+     }
+    },
+    {
+     "code": "HFD-60",
+     "url": {
+      "es": "https://figursa.com/productos/hornos/hfd-60/",
+      "en": "https://figursa.com/en/products/ovens/hfd-60/"
+     },
+     "specs": {
+      "series": {
+       "es": "Circulación forzada",
+       "en": "Forced air"
+      },
+      "inner": "60 × 45 × 45 cm",
+      "cap": "122 L"
+     }
+    },
+    {
+     "code": "HFD-88",
+     "url": {
+      "es": "https://figursa.com/productos/hornos/hfd-88/",
+      "en": "https://figursa.com/en/products/ovens/hfd-88/"
+     },
+     "specs": {
+      "series": {
+       "es": "Circulación forzada",
+       "en": "Forced air"
+      },
+      "inner": "88 × 75 × 60 cm",
+      "cap": "396 L"
+     }
+    },
+    {
+     "code": "HE-35",
+     "url": {
+      "es": "https://figursa.com/productos/hornos/he-35/",
+      "en": "https://figursa.com/en/products/ovens/he-35/"
+     },
+     "specs": {
+      "series": {
+       "es": "Serie económica, aluminio",
+       "en": "Economy series, aluminium"
+      },
+      "inner": "35 × 35 × 35 cm",
+      "cap": "42 L"
+     }
+    },
+    {
+     "code": "HE-40",
+     "url": {
+      "es": "https://figursa.com/productos/hornos/he-40/",
+      "en": "https://figursa.com/en/products/ovens/he-40/"
+     },
+     "specs": {
+      "series": {
+       "es": "Serie económica, aluminio",
+       "en": "Economy series, aluminium"
+      },
+      "inner": "45 × 45 × 40 cm",
+      "cap": "72 L"
+     }
+    },
+    {
+     "code": "HE-55",
+     "url": {
+      "es": "https://figursa.com/productos/hornos/he-55/",
+      "en": "https://figursa.com/en/products/ovens/he-55/"
+     },
+     "specs": {
+      "series": {
+       "es": "Serie económica, aluminio",
+       "en": "Economy series, aluminium"
+      },
+      "inner": "60 × 50 × 50 cm",
+      "cap": "137.5 L"
+     }
+    }
+   ]
+  },
+  {
+   "id": "banos-maria",
+   "name": {
+    "es": "Baños María",
+    "en": "Water baths"
+   },
+   "summary": {
+    "es": "Temperatura constante para tubos, circulación, agitación y flotación de tejidos.",
+    "en": "Constant temperature for tubes, circulation, shaking and tissue flotation."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/banos-maria/",
+    "en": "https://figursa.com/en/products/water-baths/"
+   },
+   "features": [
+    {
+     "es": "Sensibilidad 0.05 °C, exactitud ± 0.1 °C",
+     "en": "0.05 °C sensitivity, ± 0.1 °C accuracy"
+    },
+    {
+     "es": "Calefactor de baja densidad para larga vida",
+     "en": "Low-density heater for long life"
+    },
+    {
+     "es": "Aislamiento de fibra de vidrio",
+     "en": "Fibreglass insulation"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Incubación de tubos",
+     "en": "Tube incubation"
+    },
+    {
+     "es": "Flotación de cortes histológicos",
+     "en": "Histology section flotation"
+    },
+    {
+     "es": "Reacciones con agitación",
+     "en": "Shaken reactions"
+    }
+   ],
+   "models": [
+    {
+     "code": "BD-020",
+     "url": {
+      "es": "https://figursa.com/productos/banos-maria/bd-020/",
+      "en": "https://figursa.com/en/products/water-baths/bd-020/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Para 20 tubos",
+       "en": "For 20 tubes"
+      },
+      "inner": "14 × 13 × 15 cm"
+     }
+    },
+    {
+     "code": "BD-040",
+     "url": {
+      "es": "https://figursa.com/productos/banos-maria/bd-040/",
+      "en": "https://figursa.com/en/products/water-baths/bd-040/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Para 40 tubos",
+       "en": "For 40 tubes"
+      },
+      "inner": "23 × 13 × 15 cm"
+     }
+    },
+    {
+     "code": "BD-050",
+     "url": {
+      "es": "https://figursa.com/productos/banos-maria/bd-050/",
+      "en": "https://figursa.com/en/products/water-baths/bd-050/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Para 50 tubos",
+       "en": "For 50 tubes"
+      },
+      "inner": "29 × 14 × 15 cm"
+     }
+    },
+    {
+     "code": "BD-100",
+     "url": {
+      "es": "https://figursa.com/productos/banos-maria/bd-100/",
+      "en": "https://figursa.com/en/products/water-baths/bd-100/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Para 100 tubos",
+       "en": "For 100 tubes"
+      },
+      "inner": "29 × 23 × 15 cm"
+     }
+    },
+    {
+     "code": "BD-160",
+     "url": {
+      "es": "https://figursa.com/productos/banos-maria/bd-160/",
+      "en": "https://figursa.com/en/products/water-baths/bd-160/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Para 160 tubos",
+       "en": "For 160 tubes"
+      },
+      "inner": "50 × 29 × 15 cm"
+     }
+    },
+    {
+     "code": "BCD-100",
+     "url": {
+      "es": "https://figursa.com/productos/banos-maria/bcd-100/",
+      "en": "https://figursa.com/en/products/water-baths/bcd-100/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Con bomba de circulación",
+       "en": "With circulation pump"
+      },
+      "inner": "29 × 23 × 13 cm"
+     }
+    },
+    {
+     "code": "BCD-160",
+     "url": {
+      "es": "https://figursa.com/productos/banos-maria/bcd-160/",
+      "en": "https://figursa.com/en/products/water-baths/bcd-160/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Con bomba de circulación",
+       "en": "With circulation pump"
+      },
+      "inner": "50 × 29 × 15 cm"
+     }
+    },
+    {
+     "code": "BCRD-100",
+     "url": {
+      "es": "https://figursa.com/productos/banos-maria/bcrd-100/",
+      "en": "https://figursa.com/en/products/water-baths/bcrd-100/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Con circulación, refrigerado",
+       "en": "Circulating, refrigerated"
+      },
+      "inner": "29 × 14 × 15 cm"
+     }
+    },
+    {
+     "code": "BAD-415",
+     "url": {
+      "es": "https://figursa.com/productos/banos-maria/bad-415/",
+      "en": "https://figursa.com/en/products/water-baths/bad-415/"
+     },
+     "specs": {
+      "desc": {
+       "es": "4 anillos concéntricos de 15 cm",
+       "en": "4 concentric rings, 15 cm"
+      },
+      "inner": "—"
+     }
+    },
+    {
+     "code": "BAD-420",
+     "url": {
+      "es": "https://figursa.com/productos/banos-maria/bad-420/",
+      "en": "https://figursa.com/en/products/water-baths/bad-420/"
+     },
+     "specs": {
+      "desc": {
+       "es": "4 anillos concéntricos de 20 cm",
+       "en": "4 concentric rings, 20 cm"
+      },
+      "inner": "—"
+     }
+    },
+    {
+     "code": "BFD-230",
+     "url": {
+      "es": "https://figursa.com/productos/banos-maria/bfd-230/",
+      "en": "https://figursa.com/en/products/water-baths/bfd-230/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Flotación de tejidos",
+       "en": "Tissue flotation"
+      },
+      "inner": "—"
+     }
+    },
+    {
+     "code": "BMOD-200",
+     "url": {
+      "es": "https://figursa.com/productos/banos-maria/bmod-200/",
+      "en": "https://figursa.com/en/products/water-baths/bmod-200/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Movimiento oscilatorio, tapa de acrílico",
+       "en": "Oscillating motion, acrylic lid"
+      },
+      "inner": "—"
+     }
+    },
+    {
+     "code": "BMRD-400",
+     "url": {
+      "es": "https://figursa.com/productos/banos-maria/bmrd-400/",
+      "en": "https://figursa.com/en/products/water-baths/bmrd-400/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Movimiento reciprocante, tapa de acrílico",
+       "en": "Reciprocating motion, acrylic lid"
+      },
+      "inner": "—"
+     }
+    }
+   ]
+  },
+  {
+   "id": "mantillas",
+   "name": {
+    "es": "Mantillas de calentamiento",
+    "en": "Heating mantles"
+   },
+   "summary": {
+    "es": "Para matraces de fondo redondo de 50 mL a 22 L y reactores de resinas.",
+    "en": "For round-bottom flasks from 50 mL to 22 L and resin reactors."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/mantillas/",
+    "en": "https://figursa.com/en/products/heating-mantles/"
+   },
+   "features": [
+    {
+     "es": "Control de temperatura integrado",
+     "en": "Built-in temperature control"
+    },
+    {
+     "es": "Alimentación 120 V, 60 Hz",
+     "en": "120 V, 60 Hz power"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Destilación y reflujo",
+     "en": "Distillation and reflux"
+    },
+    {
+     "es": "Síntesis en reactor de resinas",
+     "en": "Resin-reactor synthesis"
+    }
+   ],
+   "models": [
+    {
+     "code": "MCI-050",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mci-050/",
+      "en": "https://figursa.com/en/products/heating-mantles/mci-050/"
+     },
+     "specs": {
+      "cap": "50 mL"
+     }
+    },
+    {
+     "code": "MCI-100",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mci-100/",
+      "en": "https://figursa.com/en/products/heating-mantles/mci-100/"
+     },
+     "specs": {
+      "cap": "100 mL"
+     }
+    },
+    {
+     "code": "MCI-125",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mci-125/",
+      "en": "https://figursa.com/en/products/heating-mantles/mci-125/"
+     },
+     "specs": {
+      "cap": "125 mL"
+     }
+    },
+    {
+     "code": "MCI-200",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mci-200/",
+      "en": "https://figursa.com/en/products/heating-mantles/mci-200/"
+     },
+     "specs": {
+      "cap": "200 mL"
+     }
+    },
+    {
+     "code": "MCI-250",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mci-250/",
+      "en": "https://figursa.com/en/products/heating-mantles/mci-250/"
+     },
+     "specs": {
+      "cap": "250 mL"
+     }
+    },
+    {
+     "code": "MCI-300",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mci-300/",
+      "en": "https://figursa.com/en/products/heating-mantles/mci-300/"
+     },
+     "specs": {
+      "cap": "300 mL"
+     }
+    },
+    {
+     "code": "MCI-500",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mci-500/",
+      "en": "https://figursa.com/en/products/heating-mantles/mci-500/"
+     },
+     "specs": {
+      "cap": "500 mL"
+     }
+    },
+    {
+     "code": "MCI-1000",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mci-1000/",
+      "en": "https://figursa.com/en/products/heating-mantles/mci-1000/"
+     },
+     "specs": {
+      "cap": "1 L"
+     }
+    },
+    {
+     "code": "MCI-2000",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mci-2000/",
+      "en": "https://figursa.com/en/products/heating-mantles/mci-2000/"
+     },
+     "specs": {
+      "cap": "2 L"
+     }
+    },
+    {
+     "code": "MCI-3000",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mci-3000/",
+      "en": "https://figursa.com/en/products/heating-mantles/mci-3000/"
+     },
+     "specs": {
+      "cap": "3 L"
+     }
+    },
+    {
+     "code": "MCI-4000",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mci-4000/",
+      "en": "https://figursa.com/en/products/heating-mantles/mci-4000/"
+     },
+     "specs": {
+      "cap": "4 L"
+     }
+    },
+    {
+     "code": "MCI-5000",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mci-5000/",
+      "en": "https://figursa.com/en/products/heating-mantles/mci-5000/"
+     },
+     "specs": {
+      "cap": "5 L"
+     }
+    },
+    {
+     "code": "MCI-12000",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mci-12000/",
+      "en": "https://figursa.com/en/products/heating-mantles/mci-12000/"
+     },
+     "specs": {
+      "cap": "12 L"
+     }
+    },
+    {
+     "code": "MCI-22000",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mci-22000/",
+      "en": "https://figursa.com/en/products/heating-mantles/mci-22000/"
+     },
+     "specs": {
+      "cap": "22 L"
+     }
+    },
+    {
+     "code": "MRI-500",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mri-500/",
+      "en": "https://figursa.com/en/products/heating-mantles/mri-500/"
+     },
+     "specs": {
+      "cap": "500 mL · reactor"
+     }
+    },
+    {
+     "code": "MRI-1000",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mri-1000/",
+      "en": "https://figursa.com/en/products/heating-mantles/mri-1000/"
+     },
+     "specs": {
+      "cap": "1 L · reactor"
+     }
+    },
+    {
+     "code": "MRI-2000",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mri-2000/",
+      "en": "https://figursa.com/en/products/heating-mantles/mri-2000/"
+     },
+     "specs": {
+      "cap": "2 L · reactor"
+     }
+    },
+    {
+     "code": "MRI-3000",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mri-3000/",
+      "en": "https://figursa.com/en/products/heating-mantles/mri-3000/"
+     },
+     "specs": {
+      "cap": "3 L · reactor"
+     }
+    },
+    {
+     "code": "MRI-4000",
+     "url": {
+      "es": "https://figursa.com/productos/mantillas/mri-4000/",
+      "en": "https://figursa.com/en/products/heating-mantles/mri-4000/"
+     },
+     "specs": {
+      "cap": "4 L · reactor"
+     }
+    }
+   ]
+  },
+  {
+   "id": "parrillas",
+   "name": {
+    "es": "Parrillas y agitadores",
+    "en": "Hot plates and stirrers"
+   },
+   "summary": {
+    "es": "Parrillas de calentamiento, placas agitadoras y combinadas.",
+    "en": "Hot plates, magnetic stirrers and combined units."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/parrillas/",
+    "en": "https://figursa.com/en/products/hot-plates-stirrers/"
+   },
+   "features": [
+    {
+     "es": "Superficie de aluminio fundido",
+     "en": "Cast-aluminium top"
+    },
+    {
+     "es": "Agitación electrónica de estado sólido",
+     "en": "Solid-state electronic stirring"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Preparación de soluciones",
+     "en": "Solution preparation"
+    },
+    {
+     "es": "Calentamiento de muestras",
+     "en": "Sample heating"
+    }
+   ],
+   "models": [
+    {
+     "code": "PC-1515",
+     "url": {
+      "es": "https://figursa.com/productos/parrillas/pc-1515/",
+      "en": "https://figursa.com/en/products/hot-plates-stirrers/pc-1515/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Calentamiento, 15 × 15 cm",
+       "en": "Heating, 15 × 15 cm"
+      }
+     }
+    },
+    {
+     "code": "PC-2025",
+     "url": {
+      "es": "https://figursa.com/productos/parrillas/pc-2025/",
+      "en": "https://figursa.com/en/products/hot-plates-stirrers/pc-2025/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Calentamiento, 20 × 25 cm",
+       "en": "Heating, 20 × 25 cm"
+      }
+     }
+    },
+    {
+     "code": "PC-2530",
+     "url": {
+      "es": "https://figursa.com/productos/parrillas/pc-2530/",
+      "en": "https://figursa.com/en/products/hot-plates-stirrers/pc-2530/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Calentamiento, 25 × 30 cm",
+       "en": "Heating, 25 × 30 cm"
+      }
+     }
+    },
+    {
+     "code": "PC-3060",
+     "url": {
+      "es": "https://figursa.com/productos/parrillas/pc-3060/",
+      "en": "https://figursa.com/en/products/hot-plates-stirrers/pc-3060/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Calentamiento, 30 × 60 cm",
+       "en": "Heating, 30 × 60 cm"
+      }
+     }
+    },
+    {
+     "code": "PC-15080",
+     "url": {
+      "es": "https://figursa.com/productos/parrillas/pc-15080/",
+      "en": "https://figursa.com/en/products/hot-plates-stirrers/pc-15080/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Calentamiento, base de acero inoxidable sobre porcelana refractaria",
+       "en": "Heating, stainless base on refractory porcelain"
+      }
+     }
+    },
+    {
+     "code": "PA-1515",
+     "url": {
+      "es": "https://figursa.com/productos/parrillas/pa-1515/",
+      "en": "https://figursa.com/en/products/hot-plates-stirrers/pa-1515/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Agitadora, 15 × 15 cm",
+       "en": "Stirrer, 15 × 15 cm"
+      }
+     }
+    },
+    {
+     "code": "PA-2025",
+     "url": {
+      "es": "https://figursa.com/productos/parrillas/pa-2025/",
+      "en": "https://figursa.com/en/products/hot-plates-stirrers/pa-2025/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Agitadora, 20 × 25 cm",
+       "en": "Stirrer, 20 × 25 cm"
+      }
+     }
+    },
+    {
+     "code": "PCA-1515",
+     "url": {
+      "es": "https://figursa.com/productos/parrillas/pca-1515/",
+      "en": "https://figursa.com/en/products/hot-plates-stirrers/pca-1515/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Calentamiento y agitación, 15 × 15 cm",
+       "en": "Heating and stirring, 15 × 15 cm"
+      }
+     }
+    },
+    {
+     "code": "PCA-2025",
+     "url": {
+      "es": "https://figursa.com/productos/parrillas/pca-2025/",
+      "en": "https://figursa.com/en/products/hot-plates-stirrers/pca-2025/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Calentamiento y agitación, 20 × 25 cm",
+       "en": "Heating and stirring, 20 × 25 cm"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "muebles-de-laboratorio",
+   "name": {
+    "es": "Muebles de laboratorio",
+    "en": "Laboratory furniture"
+   },
+   "summary": {
+    "es": "Mobiliario modular diseñado a la medida de su laboratorio.",
+    "en": "Modular furniture designed for your laboratory."
+   },
+   "url": {
+    "es": "https://figursa.com/productos/muebles-de-laboratorio/",
+    "en": "https://figursa.com/en/products/laboratory-furniture/"
+   },
+   "features": [
+    {
+     "es": "Diseño asistido por computadora en 2D y 3D",
+     "en": "Computer-aided design in 2D and 3D"
+    },
+    {
+     "es": "Módulos reutilizables al 100 % en una redistribución",
+     "en": "Modules fully reusable when the layout changes"
+    },
+    {
+     "es": "Conexión a todas las redes de servicios",
+     "en": "Connection to every service line"
+    }
+   ],
+   "applications": [
+    {
+     "es": "Laboratorios de docencia",
+     "en": "Teaching laboratories"
+    },
+    {
+     "es": "Laboratorios de control de calidad",
+     "en": "Quality-control laboratories"
+    },
+    {
+     "es": "Investigación",
+     "en": "Research"
+    }
+   ],
+   "notes": {
+    "es": "Cada proyecto de mobiliario se cotiza a partir de un levantamiento de su espacio.",
+    "en": "Each furniture project is quoted from a survey of your space."
+   },
+   "models": [
+    {
+     "code": "CARRO-UTILITARIO",
+     "url": {
+      "es": "https://figursa.com/productos/muebles-de-laboratorio/carro-utilitario/",
+      "en": "https://figursa.com/en/products/laboratory-furniture/carro-utilitario/"
+     },
+     "specs": {
+      "desc": {
+       "es": "Carro con dos entrepaños de acero inoxidable T-304; tubular de 1\" con primario epóxico y acabado de poliuretano negro; esquineros de aluminio y llantas de 4\"; capacidad total 180 kg",
+       "en": "Cart with two T-304 stainless shelves; 1\" tubing with epoxy primer and black polyurethane finish; aluminium corners and 4\" casters; 180 kg total capacity"
+      },
+      "outer": "41 × 80 × 91 cm"
+     }
+    }
+   ]
+  }
+ ],
+ "warranty": {
+  "es": "Garantía de un año contra defectos de fabricación, a partir de la fecha de compra.",
+  "en": "One-year warranty against manufacturing defects, from the purchase date."
+ }
+}
