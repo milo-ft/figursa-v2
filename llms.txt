@@ -1,0 +1,40 @@
+# Industrias Figursa
+
+> Mexican manufacturer of laboratory equipment since 1990 (Cuautitlán Izcalli, State of Mexico): autoclaves, laminar flow hoods, fume hoods, climate chambers, incubators, Kjeldahl apparatus, ovens, water baths, heating mantles, hot plates and modular laboratory furniture. Spanish site at /, English at /en/. Every page has a Markdown twin at index.md.
+
+Contact: figursa@prodigy.net.mx, +52 55 5871 5405. One-year warranty on every unit. Quotes, service and tender documentation on request.
+
+## Product lines
+
+- [Autoclaves](https://figursa.com/en/products/autoclaves/index.md): Steam sterilization for laboratories, clinics and industry. (8 models; Spanish: https://figursa.com/productos/autoclaves/index.md)
+- [Laminar flow hoods](https://figursa.com/en/products/laminar-flow-hoods/index.md): A sterile work zone with horizontal or vertical flow and HEPA filtration. (8 models; Spanish: https://figursa.com/productos/campanas-de-flujo-laminar/index.md)
+- [Climate chambers](https://figursa.com/en/products/climate-chambers/index.md): Controlled temperature and humidity for stability, ageing and growth studies. (8 models; Spanish: https://figursa.com/productos/camaras-climaticas/index.md)
+- [Fume hoods](https://figursa.com/en/products/fume-hoods/index.md): Operator protection during digestions, distillations and reagent preparation. (11 models; Spanish: https://figursa.com/productos/campanas-de-extraccion/index.md)
+- [Kjeldahl apparatus](https://figursa.com/en/products/kjeldahl/index.md): Digestion and distillation for protein and nitrogen determination. (9 models; Spanish: https://figursa.com/productos/kjeldahl/index.md)
+- [Goldfisch fat extractors](https://figursa.com/en/products/goldfisch-fat-extractors/index.md): Fast determination of fats and oils by solvent extraction. (1 models; Spanish: https://figursa.com/productos/extractores-goldfisch/index.md)
+- [Crude fiber apparatus](https://figursa.com/en/products/crude-fiber-apparatus/index.md): Crude fiber in feed, food and agricultural products by reflux. (1 models; Spanish: https://figursa.com/productos/fibra-cruda/index.md)
+- [Soxhlet extractors](https://figursa.com/en/products/soxhlet-extractors/index.md): Six heating units for extractions, distillations and digestions. (1 models; Spanish: https://figursa.com/productos/extractores-soxhlet/index.md)
+- [Incubators](https://figursa.com/en/products/incubators/index.md): Culture incubators: forced-air, BOD, low-temperature and orbital. (26 models; Spanish: https://figursa.com/productos/incubadoras/index.md)
+- [Colony counters](https://figursa.com/en/products/colony-counters/index.md): Counting bacterial colonies on Petri dishes, manual or electronic. (4 models; Spanish: https://figursa.com/productos/contadores-de-colonias/index.md)
+- [Dry-block tube incubators](https://figursa.com/en/products/dry-block-incubators/index.md): Dry blocks from ambient to 130 °C, 1 to 6 blocks. (5 models; Spanish: https://figursa.com/productos/incubadores-de-tubos/index.md)
+- [Tube rotators](https://figursa.com/en/products/tube-rotators/index.md): Gentle, constant mixing in every plane for tubes of several sizes. (1 models; Spanish: https://figursa.com/productos/agitadores-de-tubos/index.md)
+- [Melting-point apparatus](https://figursa.com/en/products/melting-point-apparatus/index.md): Digital capillary up to 199.9 or 350 °C, or hot stage up to 300 °C. (3 models; Spanish: https://figursa.com/productos/puntos-de-fusion/index.md)
+- [Pensky-Martens closed cup](https://figursa.com/en/products/pensky-martens-flash-point/index.md): Flash point of petroleum products to ASTM D 93. (1 models; Spanish: https://figursa.com/productos/pensky-martens/index.md)
+- [Drying ovens](https://figursa.com/en/products/ovens/index.md): Drying and dry sterilization up to 300 °C, with forced air or vacuum. (11 models; Spanish: https://figursa.com/productos/hornos/index.md)
+- [Water baths](https://figursa.com/en/products/water-baths/index.md): Constant temperature for tubes, circulation, shaking and tissue flotation. (13 models; Spanish: https://figursa.com/productos/banos-maria/index.md)
+- [Heating mantles](https://figursa.com/en/products/heating-mantles/index.md): For round-bottom flasks from 50 mL to 22 L and resin reactors. (19 models; Spanish: https://figursa.com/productos/mantillas/index.md)
+- [Hot plates and stirrers](https://figursa.com/en/products/hot-plates-stirrers/index.md): Hot plates, magnetic stirrers and combined units. (9 models; Spanish: https://figursa.com/productos/parrillas/index.md)
+- [Laboratory furniture](https://figursa.com/en/products/laboratory-furniture/index.md): Modular furniture designed for your laboratory. (1 models; Spanish: https://figursa.com/productos/muebles-de-laboratorio/index.md)
+
+## Pages
+
+- [Products and model index](https://figursa.com/en/products/index.md)
+- [Public tenders: specifications and letters](https://figursa.com/en/public-tenders/index.md)
+- [Service](https://figursa.com/en/service/index.md)
+- [Distributors](https://figursa.com/en/distributors/index.md)
+- [Contact](https://figursa.com/en/contact/index.md)
+
+## Data
+
+- [Product catalog as JSON](https://figursa.com/api/products.json): every model with its specifications, in Spanish and English.
+- [Sitemap](https://figursa.com/sitemap.xml)

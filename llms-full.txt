@@ -1,0 +1,684 @@
+# Industrias Figursa · full catalog
+
+
+
+# Autoclaves
+
+Vertical steam autoclaves for sterilizing labware, culture media, instruments and waste. Stainless-steel tank, cabinet and basket, a cast chrome-plated bronze lid, and three control levels: manual, automatic, and digital with timer.
+
+## Features
+
+- Working pressure up to 30 PSI
+- Temperature up to 135 °C
+- Safety valve and relief valve
+- Dial pressure gauge and temperature indicator
+- External water-level gauge
+- Stainless-steel tank, cabinet and basket
+- Cast, chrome-plated bronze lid
+
+## Specifications
+
+| Model | Control | Inner dimensions | Power |
+|---|---|---|---|
+| [AV-2550](https://figursa.com/en/products/autoclaves/av-2550/) | Manual, 3 heat settings | 25 × 50 cm | 1500 W |
+| [AV-3060](https://figursa.com/en/products/autoclaves/av-3060/) | Manual, 3 heat settings | 30 × 60 cm | 2000 W |
+| [AV-3560](https://figursa.com/en/products/autoclaves/av-3560/) | Manual, 3 heat settings | 35 × 60 cm | 2200 W |
+| [AVA-2550](https://figursa.com/en/products/autoclaves/ava-2550/) | Automatic | 25 × 50 cm | 1500 W |
+| [AVA-3060](https://figursa.com/en/products/autoclaves/ava-3060/) | Automatic | 30 × 60 cm | 2000 W |
+| [AVAD-2550](https://figursa.com/en/products/autoclaves/avad-2550/) | Digital with timer | 25 × 50 cm | 1500 W |
+| [AVAD-3060](https://figursa.com/en/products/autoclaves/avad-3060/) | Digital with timer | 30 × 60 cm | 2000 W |
+| [AVAD-3560](https://figursa.com/en/products/autoclaves/avad-3560/) | Digital with timer | 35 × 60 cm | 2200 W |
+
+## Applications
+
+- Microbiology and teaching laboratories
+- Clinics and hospitals
+- Food and pharmaceutical quality control
+- Sterilization of biological waste
+
+## Frequently asked questions
+
+**What is the difference between the AV, AVA and AVAD models?**
+The AV series has manual control with three heat settings; the AVA regulates the cycle automatically; the AVAD adds digital control and a timer. All three share stainless-steel construction, 30 PSI and 135 °C.
+
+**Which autoclave size do I need?**
+The 25 × 50 cm chambers cover the daily use of a teaching laboratory; 30 × 60 and 35 × 60 cm suit culture media in volume and waste. Our team can help you size it.
+
+**Do they include warranty and service?**
+Every FIGURSA unit carries a one-year warranty from the purchase date, and maintenance and spare parts come directly from the factory.
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Laminar flow hoods
+
+Horizontal and vertical laminar flow hoods that create a sterile work zone for preparing culture media, solutions and admixtures, aseptic filling and general microbiology. Stainless-steel interior, HEPA filtration, UV lamp and safety switch.
+
+## Features
+
+- HEPA filter, 99.97 % efficient at 0.3 µm
+- Stainless-steel interior
+- Low-noise blower, 2 speeds
+- Interior lighting and UV lamp
+- Safety switch
+
+## Specifications
+
+| Model | Flow | Approx. outer dimensions (W × D × H) |
+|---|---|---|
+| [CFH-60](https://figursa.com/en/products/laminar-flow-hoods/cfh-60/) | Horizontal | 67 × 80 × 200 cm |
+| [CFV-60](https://figursa.com/en/products/laminar-flow-hoods/cfv-60/) | Vertical | 67 × 80 × 200 cm |
+| [CFH-90](https://figursa.com/en/products/laminar-flow-hoods/cfh-90/) | Horizontal | 97 × 80 × 200 cm |
+| [CFV-90](https://figursa.com/en/products/laminar-flow-hoods/cfv-90/) | Vertical | 97 × 80 × 200 cm |
+| [CFH-120](https://figursa.com/en/products/laminar-flow-hoods/cfh-120/) | Horizontal | 127 × 80 × 200 cm |
+| [CFV-120](https://figursa.com/en/products/laminar-flow-hoods/cfv-120/) | Vertical | 127 × 80 × 200 cm |
+| [CFH-180](https://figursa.com/en/products/laminar-flow-hoods/cfh-180/) | Horizontal | 187 × 80 × 200 cm |
+| [CFV-180](https://figursa.com/en/products/laminar-flow-hoods/cfv-180/) | Vertical | 187 × 80 × 200 cm |
+
+We also build Type II laminar flow cabinets, class A and class B; specifications on request.
+
+## Applications
+
+- Culture media preparation and non-pathogenic inoculation
+- IV admixtures, ophthalmic solutions and formulas
+- Filling of sterile products
+- Clinical laboratory, tissue work and sterility testing
+- Electronic and optical assembly
+
+## Frequently asked questions
+
+**Horizontal or vertical flow?**
+Horizontal flow protects the product and is common for media preparation and assembly; vertical flow reduces air directed at the operator and suits admixtures and inoculation.
+
+**How often is the HEPA filter replaced?**
+It depends on use and environment; we recommend checking airflow velocity and filter integrity at least once a year. FIGURSA provides the service and replacement filters.
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Climate chambers
+
+Microprocessor-controlled temperature and humidity chambers for food studies, accelerated ageing, genetics, viral research, environmental science, biochemistry and growth studies. From 72 to 976 litres, with refrigerated versions and special sizes.
+
+## Features
+
+- Digital temperature control: ambient + 5 °C to 70 °C, ± 0.1 °C sensitivity
+- Digital humidity control: 10 to 90 % RH
+- T-304 stainless interior, magnetic seal
+- Optional temperature and humidity recorder
+- Optional computer interface and supervisory systems
+- 120 V, 60 Hz power
+
+## Specifications
+
+| Model | Inner dimensions | Capacity |
+|---|---|---|
+| [CH-6040](https://figursa.com/en/products/climate-chambers/ch-6040/) | 60 × 40 × 30 cm | 72 L |
+| [CH-6050](https://figursa.com/en/products/climate-chambers/ch-6050/) | 60 × 50 × 35 cm | 105 L |
+| [CH-6070](https://figursa.com/en/products/climate-chambers/ch-6070/) | 60 × 70 × 40 cm | 168 L |
+| [CH-7080](https://figursa.com/en/products/climate-chambers/ch-7080/) | 70 × 80 × 55 cm | 308 L |
+| [CH-7090](https://figursa.com/en/products/climate-chambers/ch-7090/) | 70 × 90 × 60 cm | 378 L |
+| [CH-7150](https://figursa.com/en/products/climate-chambers/ch-7150/) | 70 × 150 × 60 cm | 630 L |
+| [CH-9155](https://figursa.com/en/products/climate-chambers/ch-9155/) | 90 × 155 × 70 cm | 976 L |
+| [GERMINADOR-388](https://figursa.com/en/products/climate-chambers/germinador-388/) | 58 × 147 × 57 cm | 793 L (28 ft³) |
+
+Ask about special sizes, controlled CO₂ or ozone atmospheres, interior lighting, programmers and remote supervision.
+
+## Applications
+
+- Stability studies
+- Accelerated ageing of materials
+- Plant growth and germination
+- Food and environmental research
+
+## Frequently asked questions
+
+**Do you build refrigerated chambers?**
+Yes. Besides the CH series we build refrigerated and growth chambers such as the Germinador 388 (−5 to 55 °C). Tell us the range your protocol requires.
+
+**What installation do they need?**
+A distilled-water supply, a condensate drain and a 120 V, 60 Hz outlet.
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Fume hoods
+
+Hoods for work with toxic, corrosive or irritating fumes. T-304 stainless interior, zinc-coated steel exterior with epoxy finish, and a counterweighted sash that stays at any height.
+
+## Features
+
+- Interior lighting and extractor
+- Water and gas taps, electrical outlets (CEG series)
+- Sash with shatter-proof glass or acrylic
+- Optional explosion-proof and remote extractors
+
+## Specifications
+
+| Model | Type | Approx. outer dimensions |
+|---|---|---|
+| [CE-60](https://figursa.com/en/products/fume-hoods/ce-60/) | Bench-top, no cabinet or services | 80 × 76 × 117 cm |
+| [CE-90](https://figursa.com/en/products/fume-hoods/ce-90/) | Bench-top, no cabinet or services | 110 × 76 × 117 cm |
+| [CE-120](https://figursa.com/en/products/fume-hoods/ce-120/) | Bench-top, no cabinet or services | 140 × 76 × 117 cm |
+| [CE-150](https://figursa.com/en/products/fume-hoods/ce-150/) | Bench-top, no cabinet or services | 170 × 76 × 117 cm |
+| [CE-180](https://figursa.com/en/products/fume-hoods/ce-180/) | Bench-top, no cabinet or services | 200 × 76 × 117 cm |
+| [CEG-60](https://figursa.com/en/products/fume-hoods/ceg-60/) | With base cabinet and services | 80 × 76 × 210 cm |
+| [CEG-90](https://figursa.com/en/products/fume-hoods/ceg-90/) | With base cabinet and services | 110 × 76 × 210 cm |
+| [CEG-120](https://figursa.com/en/products/fume-hoods/ceg-120/) | With base cabinet and services | 140 × 76 × 210 cm |
+| [CEG-150](https://figursa.com/en/products/fume-hoods/ceg-150/) | With base cabinet and services | 170 × 76 × 210 cm |
+| [CEG-180](https://figursa.com/en/products/fume-hoods/ceg-180/) | With base cabinet and services | 200 × 76 × 210 cm |
+| [CEG-240](https://figursa.com/en/products/fume-hoods/ceg-240/) | With rack for pilot tests | 240 × 76 × 220 cm |
+
+## Applications
+
+- Kjeldahl digestion
+- Evaporation and distillation
+- Reagent preparation
+- Pilot plants (CEG-240)
+
+## Frequently asked questions
+
+**Can they be built to size?**
+Yes: size, sash type, explosion-proof or remote extractor and services are defined for your laboratory.
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Kjeldahl apparatus
+
+Digesters, distillers and combined units for protein and nitrogen determination by the Kjeldahl method, from 1 to 12 places, with reversible ceramic heaters for 500 or 800 mL flasks.
+
+## Features
+
+- Independent heating control per place
+- T-304 stainless supports on an acid-resistant base
+- Stainless distiller tubes welded to the condenser
+- Motorized fume extraction on 6-place digesters
+- Dial thermometer on the cooling-water outlet (6-place distillers)
+
+## Specifications
+
+| Model | Description | Places |
+|---|---|---|
+| [DMK-650](https://figursa.com/en/products/kjeldahl/dmk-650/) | Micro distiller | 1 |
+| [DGMK-630](https://figursa.com/en/products/kjeldahl/dgmk-630/) | Micro digester | 6 |
+| [DK-2500](https://figursa.com/en/products/kjeldahl/dk-2500/) | Distiller, 500 to 800 mL flasks | 2 |
+| [DGK-2800](https://figursa.com/en/products/kjeldahl/dgk-2800/) | Digester, 500 to 800 mL flasks | 2 |
+| [KC-3000](https://figursa.com/en/products/kjeldahl/kc-3000/) | Combined digestion and distillation | 2 |
+| [DK-6500](https://figursa.com/en/products/kjeldahl/dk-6500/) | Distiller, 500 to 800 mL flasks | 6 |
+| [DGK-6800](https://figursa.com/en/products/kjeldahl/dgk-6800/) | Digester, 500 to 800 mL flasks | 6 |
+| [KC-12500](https://figursa.com/en/products/kjeldahl/kc-12500/) | Combined digestion and distillation | 6 |
+| [KC-24800](https://figursa.com/en/products/kjeldahl/kc-24800/) | Combined digestion and distillation | 12 |
+
+Accessories: titration units, caustic-soda dosing, carboy and flask carts, and special builds.
+
+## Applications
+
+- Protein in food and feed
+- Nitrogen in soil, water and fertilizers
+- Food-science teaching
+
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Goldfisch fat extractors
+
+Six-place Goldfisch-type solvent fat extractor for fast determination of fat and oil content, with solvents boiling at up to 85 °C. It complements Kjeldahl analysis in food science and food quality control.
+
+## Features
+
+- 6 condensers with holders for the thimble tube or recovery tube
+- Individual 100 W heaters
+- Time-proportioning thermostat for every two heaters
+- Cooling water, 1/2" NPT connection
+- 127 V, 60 Hz power
+
+## Specifications
+
+| Model | Places | Approx. dimensions | Power |
+|---|---|---|---|
+| [EG-4000](https://figursa.com/en/products/goldfisch-fat-extractors/eg-4000/) | 6 | 68 × 91 × 23 cm | 600 W |
+
+## Applications
+
+- Crude fat in food and feed
+- Oils and fats in agricultural products
+- Food-science teaching
+
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Crude fiber apparatus
+
+A fast, safe and accurate condensate-reflux apparatus for crude fiber determination. The sample undergoes a simulated digestion: heated in acid, washed and heated in alkali to isolate cellulose and crude-fiber residue. A procedure listed by AOAC.
+
+## Features
+
+- 6 heaters with individual infinite-type temperature control
+- Stainless-steel condensers
+- 600 mL tall-form beakers
+- Requires cooling water and drain
+- 127 V, 60 Hz power
+
+## Specifications
+
+| Model | Places | Maximum power |
+|---|---|---|
+| [EFC-6000](https://figursa.com/en/products/crude-fiber-apparatus/efc-6000/) | 6 | 2100 W |
+
+## Applications
+
+- Crude fiber in feed and food
+- Government and industrial laboratories
+- Food-science teaching
+
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Soxhlet extractors
+
+Six-unit Vari-Heat Soxhlet extractor for extractions, distillations and digestions. Each unit has its own temperature control and pilot light, with round aluminium heaters and two supports per unit.
+
+## Features
+
+- Independent temperature control and pilot light per unit
+- Round aluminium heaters
+- Two supports per unit
+- 127 V, 60 Hz power
+
+## Specifications
+
+| Model | Units | Power |
+|---|---|---|
+| [ES-5000](https://figursa.com/en/products/soxhlet-extractors/es-5000/) | 6 | 600 W |
+
+## Applications
+
+- Fat and oil extraction
+- Distillations and digestions
+
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Incubators
+
+Incubators with solid-state electronic control and ± 0.1 °C sensitivity, T-304 stainless interior, an inner acrylic door with airtight seal and fibreglass insulation.
+
+## Features
+
+- Electronic control, ± 0.1 °C sensitivity
+- Digital temperature display
+- Inner acrylic door with airtight seal
+- Magnetic seal
+- 120 V, 60 Hz power
+
+## Specifications
+
+| Model | Series | Range | Inner dimensions | Capacity |
+|---|---|---|---|---|
+| [I-35](https://figursa.com/en/products/incubators/i-35/) | Standard, stainless | Ambient to 70 °C | 35 × 35 × 35 cm | 42 L |
+| [I-45](https://figursa.com/en/products/incubators/i-45/) | Standard, stainless | Ambient to 70 °C | 45 × 45 × 40 cm | 81 L |
+| [I-60](https://figursa.com/en/products/incubators/i-60/) | Standard, stainless | Ambient to 70 °C | 60 × 50 × 50 cm | 150 L |
+| [I-70](https://figursa.com/en/products/incubators/i-70/) | Standard, stainless | Ambient to 70 °C | 70 × 65 × 45 cm | 204 L |
+| [IFD-35](https://figursa.com/en/products/incubators/ifd-35/) | Forced air | Ambient to 70 °C | 35 × 35 × 30 cm | 37 L |
+| [IFD-45](https://figursa.com/en/products/incubators/ifd-45/) | Forced air | Ambient to 70 °C | 45 × 45 × 35 cm | 71 L |
+| [IFD-60](https://figursa.com/en/products/incubators/ifd-60/) | Forced air | Ambient to 70 °C | 60 × 50 × 45 cm | 135 L |
+| [IFD-70](https://figursa.com/en/products/incubators/ifd-70/) | Forced air | Ambient to 70 °C | 70 × 65 × 40 cm | 182 L |
+| [IFD-100](https://figursa.com/en/products/incubators/ifd-100/) | Forced air | Ambient to 70 °C | 100 × 80 × 60 cm | 480 L |
+| [IDB-50](https://figursa.com/en/products/incubators/idb-50/) | BOD, refrigerated | 0 to 50 °C | 45 × 45 × 35 cm | 70 L |
+| [IDB-100](https://figursa.com/en/products/incubators/idb-100/) | BOD, refrigerated | 0 to 50 °C | 70 × 65 × 40 cm | 182 L |
+| [IDB-200](https://figursa.com/en/products/incubators/idb-200/) | BOD, refrigerated | 0 to 50 °C | 100 × 70 × 50 cm | 350 L |
+| [IDB-300](https://figursa.com/en/products/incubators/idb-300/) | BOD, refrigerated | 0 to 50 °C | 145 × 70 × 50 cm | 507 L |
+| [IBTF-050](https://figursa.com/en/products/incubators/ibtf-050/) | Low temperature | −10 to 50 °C | 45 × 45 × 35 cm | 70 L |
+| [IBTF-100](https://figursa.com/en/products/incubators/ibtf-100/) | Low temperature | −10 to 50 °C | 70 × 65 × 40 cm | 182 L |
+| [IBTF-200](https://figursa.com/en/products/incubators/ibtf-200/) | Low temperature | −10 to 50 °C | 100 × 70 × 50 cm | 350 L |
+| [IBTF-300](https://figursa.com/en/products/incubators/ibtf-300/) | Low temperature | −10 to 50 °C | 145 × 70 × 50 cm | 507 L |
+| [IOD-500](https://figursa.com/en/products/incubators/iod-500/) | Orbital shaker | Ambient to 70 °C | Bench-top, acrylic lid | — |
+| [IOD-600](https://figursa.com/en/products/incubators/iod-600/) | Orbital shaker | Ambient to 70 °C | Bench-top, acrylic lid | — |
+| [IOPD-700](https://figursa.com/en/products/incubators/iopd-700/) | Orbital shaker | Ambient to 70 °C | Floor-standing, with door | — |
+| [IOPD-800](https://figursa.com/en/products/incubators/iopd-800/) | Orbital shaker | Ambient to 70 °C | Floor-standing, with door | — |
+| [IOPRD-900](https://figursa.com/en/products/incubators/ioprd-900/) | Orbital shaker | Refrigerated | Floor-standing, refrigerated, with door | — |
+| [IE-35](https://figursa.com/en/products/incubators/ie-35/) | Economy series, aluminium | Ambient to 70 °C | 35 × 35 × 35 cm | 42 L |
+| [IE-45](https://figursa.com/en/products/incubators/ie-45/) | Economy series, aluminium | Ambient to 70 °C | 45 × 45 × 40 cm | 81 L |
+| [IE-60](https://figursa.com/en/products/incubators/ie-60/) | Economy series, aluminium | Ambient to 70 °C | 60 × 50 × 50 cm | 150 L |
+| [IE-70](https://figursa.com/en/products/incubators/ie-70/) | Economy series, aluminium | Ambient to 70 °C | 70 × 65 × 45 cm | 204 L |
+
+## Applications
+
+- Microbiology and culture
+- Biochemical oxygen demand (BOD) in water
+- Shaken cultures
+
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Colony counters
+
+Counters to view and count bacterial colonies on glass or disposable Petri dishes, with a magnifier, a grid on glass, a dark contrast background and indirect reflected light across the whole area without tiring glare.
+
+## Features
+
+- Adjustable 3X magnifier, 100 mm diameter
+- Fire-enamelled glass grid
+- Dark contrast background and indirect reflected light
+- Reset button and manual count button
+- 127 V, 60 Hz power
+
+## Specifications
+
+| Model | Cabinet | Counting | Lighting | Display |
+|---|---|---|---|---|
+| [CMF-300](https://figursa.com/en/products/colony-counters/cmf-300/) | Enamelled | Manual button | Fluorescent | Mechanical, 4 digits |
+| [CMI-3000](https://figursa.com/en/products/colony-counters/cmi-3000/) | Stainless steel | Manual button | Incandescent | Mechanical, 4 digits |
+| [CMF-3100](https://figursa.com/en/products/colony-counters/cmf-3100/) | Stainless steel | Manual button | Fluorescent | Mechanical, 4 digits |
+| [CAF-3500](https://figursa.com/en/products/colony-counters/caf-3500/) | Stainless steel | Contact pen, manual or automatic | Fluorescent | Electronic LCD, 5 digits |
+
+## Applications
+
+- Plate counts in food and water microbiology
+- Microbiology teaching
+
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Dry-block tube incubators
+
+Dry-block tube incubator with solid-state temperature control and a thermistor sensor, from ambient to 130 °C. Interchangeable blocks for 6 to 25 mm tubes.
+
+## Features
+
+- Range from ambient to 130 °C
+- Solid-state control with thermistor sensor
+- Blocks for 6, 10, 13, 16, 19 and 25 mm tubes, and a combined block
+
+## Specifications
+
+| Model | Blocks | Power | Approx. dimensions |
+|---|---|---|---|
+| [ITS-1B](https://figursa.com/en/products/dry-block-incubators/its-1b/) | 1 | 100 W | 20 × 13 × 8 cm |
+| [ITS-2B](https://figursa.com/en/products/dry-block-incubators/its-2b/) | 2 | 150 W | 20 × 20 × 9 cm |
+| [ITS-3B](https://figursa.com/en/products/dry-block-incubators/its-3b/) | 3 | 200 W | 28 × 22 × 9 cm |
+| [ITS-4B](https://figursa.com/en/products/dry-block-incubators/its-4b/) | 4 | 300 W | 30 × 20 × 9 cm |
+| [ITS-6B](https://figursa.com/en/products/dry-block-incubators/its-6b/) | 6 | 400 W | 30 × 28 × 9 cm |
+
+Blocks: BA-30 (30 × 6 mm tubes), BA-24 (24 × 10 mm), BA-20 (20 × 13 mm), BA-12 (12 × 16 mm), BA-8 (8 × 19 mm), BA-6 (6 × 25 mm) and combined BA-356 (3 × 25, 5 × 13 and 6 × 6 mm).
+
+## Applications
+
+- Tube incubation in microbiology
+- Biochemical and coliform tests
+
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Tube rotators
+
+A rotator that disperses the sample evenly and mixes several components at once, with constant, gentle movement in every plane. It takes tubes of different sizes and diameters.
+
+## Features
+
+- 18 rpm speed
+- 28 cm disc with 12 holders
+- Base approx. 15 × 21 cm
+- 127 V, 60 Hz power
+
+## Specifications
+
+| Model | Speed | Capacity |
+|---|---|---|
+| [RT-1224](https://figursa.com/en/products/tube-rotators/rt-1224/) | 18 rpm | 12 holders |
+
+## Applications
+
+- Mixing samples in tubes
+- Haematology and clinical laboratory
+
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Melting-point apparatus
+
+Apparatus to determine the melting point of one or more solids: capillary models with a platinum sensor, electronic control and digital display, and a temperature-controlled hot-stage model.
+
+## Features
+
+- Platinum temperature sensor
+- Electronic control with heating-cycle control
+- Digital display, 0.1 °C resolution
+- 8X magnifier
+- Aluminium block for 1 to 3 capillaries, ceramic-insulated
+- Includes 100 capillary tubes
+- Zinc-coated steel cabinet with epoxy finish
+- 127 V, 60 Hz; 50 W maximum
+
+## Specifications
+
+| Model | Type | Range |
+|---|---|---|
+| [PF-2000](https://figursa.com/en/products/melting-point-apparatus/pf-2000/) | Digital capillary | Ambient to 199.9 °C |
+| [PF-3500](https://figursa.com/en/products/melting-point-apparatus/pf-3500/) | Digital capillary | Ambient to 350 °C |
+| [PF-1400](https://figursa.com/en/products/melting-point-apparatus/pf-1400/) | Hot stage | Thermometer 20 to 300 °C |
+
+## Applications
+
+- Identification and purity of solids
+- Pharmaceutical and chemical quality control
+- Organic chemistry teaching
+
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Pensky-Martens closed cup
+
+Closed cup for flash-point determination of petroleum products and fuel oils. A smooth one-hand ignition mechanism, with cup, lid, manual stirrer, shutter and test-flame system.
+
+## Features
+
+- Meets ASTM D 93 and FSM 1102
+- Low-density Ni-Cr heater and electronic control
+- Stainless-steel cabinet; cup turned in bronze
+- Chrome burner with 1/8" IPS connection
+- Approx. 28 × 18 × 46 cm
+- 127 V, 60 Hz; 750 W
+
+## Specifications
+
+| Model | Standard | Power |
+|---|---|---|
+| [CPE-2600](https://figursa.com/en/products/pensky-martens-flash-point/cpe-2600/) | ASTM D 93 | 750 W |
+
+## Applications
+
+- Fuels and oils
+- Quality control in the oil industry
+
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Drying ovens
+
+Ovens with solid-state electronic control from ambient up to 200, 220, 250 or 300 °C, ± 0.1 °C sensitivity, insulated double wall and two adjustable shelves. Forced-air and vacuum options.
+
+## Features
+
+- Up to 300 °C depending on model
+- ± 0.1 °C sensitivity
+- NiCr heater with ceramic insulators
+- Top vent for vapours
+
+## Specifications
+
+| Model | Series | Inner dimensions | Capacity |
+|---|---|---|---|
+| [HD-35](https://figursa.com/en/products/ovens/hd-35/) | Stainless steel | 35 × 35 × 35 cm | 42 L |
+| [HD-40](https://figursa.com/en/products/ovens/hd-40/) | Stainless steel | 45 × 45 × 40 cm | 72 L |
+| [HD-55](https://figursa.com/en/products/ovens/hd-55/) | Stainless steel | 60 × 50 × 50 cm | 137.5 L |
+| [HFD-28](https://figursa.com/en/products/ovens/hfd-28/) | Forced air | 28 × 30 × 35 cm | 30 L |
+| [HFD-33](https://figursa.com/en/products/ovens/hfd-33/) | Forced air | 33 × 40 × 40 cm | 53 L |
+| [HFD-48](https://figursa.com/en/products/ovens/hfd-48/) | Forced air | 48 × 45 × 50 cm | 108 L |
+| [HFD-60](https://figursa.com/en/products/ovens/hfd-60/) | Forced air | 60 × 45 × 45 cm | 122 L |
+| [HFD-88](https://figursa.com/en/products/ovens/hfd-88/) | Forced air | 88 × 75 × 60 cm | 396 L |
+| [HE-35](https://figursa.com/en/products/ovens/he-35/) | Economy series, aluminium | 35 × 35 × 35 cm | 42 L |
+| [HE-40](https://figursa.com/en/products/ovens/he-40/) | Economy series, aluminium | 45 × 45 × 40 cm | 72 L |
+| [HE-55](https://figursa.com/en/products/ovens/he-55/) | Economy series, aluminium | 60 × 50 × 50 cm | 137.5 L |
+
+Vacuum oven with vacuum-line connections and needle gauge, on request.
+
+## Applications
+
+- Drying of labware and samples
+- Moisture determination
+- Vacuum drying
+
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Water baths
+
+Constant-temperature baths in T-304 stainless steel, from ambient to 60 °C without lid and up to 100 °C with lid, an electronic thermostat with 0.05 °C sensitivity and ± 0.1 °C accuracy. Digital control on every model.
+
+## Features
+
+- 0.05 °C sensitivity, ± 0.1 °C accuracy
+- Low-density heater for long life
+- Fibreglass insulation
+
+## Specifications
+
+| Model | Description | Inner dimensions |
+|---|---|---|
+| [BD-020](https://figursa.com/en/products/water-baths/bd-020/) | For 20 tubes | 14 × 13 × 15 cm |
+| [BD-040](https://figursa.com/en/products/water-baths/bd-040/) | For 40 tubes | 23 × 13 × 15 cm |
+| [BD-050](https://figursa.com/en/products/water-baths/bd-050/) | For 50 tubes | 29 × 14 × 15 cm |
+| [BD-100](https://figursa.com/en/products/water-baths/bd-100/) | For 100 tubes | 29 × 23 × 15 cm |
+| [BD-160](https://figursa.com/en/products/water-baths/bd-160/) | For 160 tubes | 50 × 29 × 15 cm |
+| [BCD-100](https://figursa.com/en/products/water-baths/bcd-100/) | With circulation pump | 29 × 23 × 13 cm |
+| [BCD-160](https://figursa.com/en/products/water-baths/bcd-160/) | With circulation pump | 50 × 29 × 15 cm |
+| [BCRD-100](https://figursa.com/en/products/water-baths/bcrd-100/) | Circulating, refrigerated | 29 × 14 × 15 cm |
+| [BAD-415](https://figursa.com/en/products/water-baths/bad-415/) | 4 concentric rings, 15 cm | — |
+| [BAD-420](https://figursa.com/en/products/water-baths/bad-420/) | 4 concentric rings, 20 cm | — |
+| [BFD-230](https://figursa.com/en/products/water-baths/bfd-230/) | Tissue flotation | — |
+| [BMOD-200](https://figursa.com/en/products/water-baths/bmod-200/) | Oscillating motion, acrylic lid | — |
+| [BMRD-400](https://figursa.com/en/products/water-baths/bmrd-400/) | Reciprocating motion, acrylic lid | — |
+
+## Applications
+
+- Tube incubation
+- Histology section flotation
+- Shaken reactions
+
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Heating mantles
+
+Mantles with built-in temperature control, pilot light and front switch. Fibreglass body up to 500 mL and epoxy-finished zinc-coated steel from 500 mL to 22 L.
+
+## Features
+
+- Built-in temperature control
+- 120 V, 60 Hz power
+
+## Specifications
+
+| Model | Flask capacity |
+|---|---|
+| [MCI-050](https://figursa.com/en/products/heating-mantles/mci-050/) | 50 mL |
+| [MCI-100](https://figursa.com/en/products/heating-mantles/mci-100/) | 100 mL |
+| [MCI-125](https://figursa.com/en/products/heating-mantles/mci-125/) | 125 mL |
+| [MCI-200](https://figursa.com/en/products/heating-mantles/mci-200/) | 200 mL |
+| [MCI-250](https://figursa.com/en/products/heating-mantles/mci-250/) | 250 mL |
+| [MCI-300](https://figursa.com/en/products/heating-mantles/mci-300/) | 300 mL |
+| [MCI-500](https://figursa.com/en/products/heating-mantles/mci-500/) | 500 mL |
+| [MCI-1000](https://figursa.com/en/products/heating-mantles/mci-1000/) | 1 L |
+| [MCI-2000](https://figursa.com/en/products/heating-mantles/mci-2000/) | 2 L |
+| [MCI-3000](https://figursa.com/en/products/heating-mantles/mci-3000/) | 3 L |
+| [MCI-4000](https://figursa.com/en/products/heating-mantles/mci-4000/) | 4 L |
+| [MCI-5000](https://figursa.com/en/products/heating-mantles/mci-5000/) | 5 L |
+| [MCI-12000](https://figursa.com/en/products/heating-mantles/mci-12000/) | 12 L |
+| [MCI-22000](https://figursa.com/en/products/heating-mantles/mci-22000/) | 22 L |
+| [MRI-500](https://figursa.com/en/products/heating-mantles/mri-500/) | 500 mL · reactor |
+| [MRI-1000](https://figursa.com/en/products/heating-mantles/mri-1000/) | 1 L · reactor |
+| [MRI-2000](https://figursa.com/en/products/heating-mantles/mri-2000/) | 2 L · reactor |
+| [MRI-3000](https://figursa.com/en/products/heating-mantles/mri-3000/) | 3 L · reactor |
+| [MRI-4000](https://figursa.com/en/products/heating-mantles/mri-4000/) | 4 L · reactor |
+
+## Applications
+
+- Distillation and reflux
+- Resin-reactor synthesis
+
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Hot plates and stirrers
+
+Cast-aluminium top for uniform temperature, a high-resistance Ni-Cr element, infinite-type temperature control and electronic stirring control.
+
+## Features
+
+- Cast-aluminium top
+- Solid-state electronic stirring
+
+## Specifications
+
+| Model | Description |
+|---|---|
+| [PC-1515](https://figursa.com/en/products/hot-plates-stirrers/pc-1515/) | Heating, 15 × 15 cm |
+| [PC-2025](https://figursa.com/en/products/hot-plates-stirrers/pc-2025/) | Heating, 20 × 25 cm |
+| [PC-2530](https://figursa.com/en/products/hot-plates-stirrers/pc-2530/) | Heating, 25 × 30 cm |
+| [PC-3060](https://figursa.com/en/products/hot-plates-stirrers/pc-3060/) | Heating, 30 × 60 cm |
+| [PC-15080](https://figursa.com/en/products/hot-plates-stirrers/pc-15080/) | Heating, stainless base on refractory porcelain |
+| [PA-1515](https://figursa.com/en/products/hot-plates-stirrers/pa-1515/) | Stirrer, 15 × 15 cm |
+| [PA-2025](https://figursa.com/en/products/hot-plates-stirrers/pa-2025/) | Stirrer, 20 × 25 cm |
+| [PCA-1515](https://figursa.com/en/products/hot-plates-stirrers/pca-1515/) | Heating and stirring, 15 × 15 cm |
+| [PCA-2025](https://figursa.com/en/products/hot-plates-stirrers/pca-2025/) | Heating and stirring, 20 × 25 cm |
+
+## Applications
+
+- Solution preparation
+- Sample heating
+
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
+
+
+# Laboratory furniture
+
+We design furniture in 2D and 3D from your spaces and services (air, water, gas, power, steam, vacuum). Modules keep the same depth and height, so they can be relocated and extended without losing uniformity.
+
+## Features
+
+- Computer-aided design in 2D and 3D
+- Modules fully reusable when the layout changes
+- Connection to every service line
+
+## Specifications
+
+| Model | Description | Dimensions |
+|---|---|---|
+| [CARRO-UTILITARIO](https://figursa.com/en/products/laboratory-furniture/carro-utilitario/) | Cart with two T-304 stainless shelves; 1" tubing with epoxy primer and black polyurethane finish; aluminium corners and 4" casters; 180 kg total capacity | 41 × 80 × 91 cm |
+
+Each furniture project is quoted from a survey of your space.
+
+## Applications
+
+- Teaching laboratories
+- Quality-control laboratories
+- Research
+
+
+One-year warranty against manufacturing defects, from the purchase date. +52 55 5871 5405 · figursa@prodigy.net.mx
